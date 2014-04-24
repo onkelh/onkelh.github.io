@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"feilkort__bruker_har_pr_vd___f__tilgang_f_r.html",
-  "generationDate":new Date(1398343362188.12),
+  "generationDate":new Date(1398346611094.3),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
