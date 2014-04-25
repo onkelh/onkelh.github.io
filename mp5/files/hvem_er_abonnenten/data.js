@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"hvem_er_abonnenten.html",
-  "generationDate":new Date(1398413019530.6),
+  "generationDate":new Date(1398428162184.38),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -245,7 +245,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/opprett_bruker_1/u9.png"}},
+            "normal~":"images/hvem_er_abonnenten/u9.png"}},
 {
           "id":"979dfbbe5cef4883b61f433fb81f9536",
           "label":"",
