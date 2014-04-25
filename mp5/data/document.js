@@ -13,6 +13,10 @@
     "loadFeedbackPlugin":false},
   "sitemap":{
     "rootNodes":[{
+        "pageName":"startside for prototypen",
+        "type":"Wireframe",
+        "url":"startside_for_prototypen.html"},
+{
         "pageName":"MP5 - baseline (med feilmeldinger)",
         "type":"Folder",
         "url":"",

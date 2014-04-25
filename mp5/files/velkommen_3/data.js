@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"velkommen_3.html",
-  "generationDate":new Date(1398412543209.01),
+  "generationDate":new Date(1398413018477.12),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
