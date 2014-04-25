@@ -300,3 +300,12 @@
   width:78px;
   word-wrap:break-word;
 }
+#u23 {
+  position:absolute;
+  left:380px;
+  top:430px;
+  width:360px;
+  height:60px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}

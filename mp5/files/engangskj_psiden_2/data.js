@@ -1,10 +1,10 @@
 ﻿$axure.loadCurrentPage({
   "url":"engangskj_psiden_2.html",
-  "generationDate":new Date(1398346614129.95),
+  "generationDate":new Date(1398412544850.31),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
-    "packageId":"920f0c48301947308fe8529ce6f1874b",
+    "packageId":"de217af7463b4b0fa7959da509015d75",
     "type":"Axure:Page",
     "name":"engangskjøpsiden",
     "notes":{
@@ -601,7 +601,37 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"resources/images/transparent.gif"}}]}},
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"d942a93c4bb547e5918303db1fa3a3f8",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":110,
+              "y":270},
+            "size":{
+              "width":170,
+              "height":120}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open tast kjøpskode in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"tast_kj_pskode_2.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true}]}},
   "masters":{
     "2b40fb19f33c450284c7533e94ceefb7":{
       "packageId":"2b40fb19f33c450284c7533e94ceefb7",
@@ -716,4 +746,6 @@
     "ae0983e692ab409cae4adf55bd11a225":{
       "scriptId":"u25"},
     "874fe125c0234cd2837aaea9f9fb38ed":{
-      "scriptId":"u26"}}});
+      "scriptId":"u26"},
+    "d942a93c4bb547e5918303db1fa3a3f8":{
+      "scriptId":"u27"}}});

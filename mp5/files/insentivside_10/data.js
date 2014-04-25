@@ -1,10 +1,10 @@
 ﻿$axure.loadCurrentPage({
   "url":"insentivside_10.html",
-  "generationDate":new Date(1398346615990.25),
+  "generationDate":new Date(1398412546638.07),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
-    "packageId":"7994430b4f554593ac4973621fca7849",
+    "packageId":"eeac0a8439664490ba228f08ac530ef3",
     "type":"Axure:Page",
     "name":"insentivside",
     "notes":{
@@ -535,7 +535,7 @@
           "images":{
             "normal~":"images/insentivside/u21.png"}},
 {
-          "id":"b9d29ad9bd384ebda11ec947013d8144",
+          "id":"605dbb956f724c90a0140672ea59a81c",
           "label":"",
           "type":"imageMapRegion",
           "styleType":"imageMapRegion",
@@ -543,9 +543,9 @@
           "style":{
             "location":{
               "x":230,
-              "y":360},
+              "y":960},
             "size":{
-              "width":300,
+              "width":290,
               "height":60}},
           "adaptiveStyles":{
 },
@@ -613,5 +613,5 @@
       "scriptId":"u21"},
     "c31625d7c13643de908a65c01c6e5ff9":{
       "scriptId":"u22"},
-    "b9d29ad9bd384ebda11ec947013d8144":{
+    "605dbb956f724c90a0140672ea59a81c":{
       "scriptId":"u23"}}});

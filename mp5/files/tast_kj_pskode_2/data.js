@@ -1,10 +1,10 @@
 ﻿$axure.loadCurrentPage({
   "url":"tast_kj_pskode_2.html",
-  "generationDate":new Date(1398346614180.91),
+  "generationDate":new Date(1398412544900.26),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
-    "packageId":"cd267cafff0b4315b090601e43e257a9",
+    "packageId":"cb24cfea76494de1b9ad55d28941a167",
     "type":"Axure:Page",
     "name":"tast kjøpskode",
     "notes":{
@@ -292,7 +292,37 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/tilgang_login/u11.png"}}]}},
+            "normal~":"images/tilgang_login/u11.png"}},
+{
+          "id":"ee9fb6562fe64e63ba5b7359cb395b2d",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":420,
+              "y":270},
+            "size":{
+              "width":140,
+              "height":60}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open velkommen in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"velkommen_6.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true}]}},
   "masters":{
     "2b40fb19f33c450284c7533e94ceefb7":{
       "packageId":"2b40fb19f33c450284c7533e94ceefb7",
@@ -379,4 +409,6 @@
     "9bfaba4595104a149fa9870eae30b24d":{
       "scriptId":"u11"},
     "439ccad09662470d8d5abf2c1deb0caa":{
-      "scriptId":"u12"}}});
+      "scriptId":"u12"},
+    "ee9fb6562fe64e63ba5b7359cb395b2d":{
+      "scriptId":"u13"}}});

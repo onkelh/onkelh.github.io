@@ -1,10 +1,10 @@
 ﻿$axure.loadCurrentPage({
   "url":"tilgang_login_5.html",
-  "generationDate":new Date(1398346613838.63),
+  "generationDate":new Date(1398412544494.37),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
-    "packageId":"0256098994ea4975a6808cf4f9af823a",
+    "packageId":"185d83bf195748b8aedeaa44ecceb2cb",
     "type":"Axure:Page",
     "name":"tilgang/login",
     "notes":{
@@ -506,7 +506,37 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"resources/images/transparent.gif"}}]}},
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"8c0960562dab4b57a918f00e50fdeaf1",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":380,
+              "y":320},
+            "size":{
+              "width":270,
+              "height":60}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open opprett bruker in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"opprett_bruker_5.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true}]}},
   "masters":{
     "2b40fb19f33c450284c7533e94ceefb7":{
       "packageId":"2b40fb19f33c450284c7533e94ceefb7",
@@ -611,4 +641,6 @@
     "d904d45d71284b6285c290dc68cc70e6":{
       "scriptId":"u20"},
     "3c692c53f9d742b38e41a3867f9713f2":{
-      "scriptId":"u21"}}});
+      "scriptId":"u21"},
+    "8c0960562dab4b57a918f00e50fdeaf1":{
+      "scriptId":"u22"}}});

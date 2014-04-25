@@ -1,10 +1,10 @@
 ﻿$axure.loadCurrentPage({
   "url":"dit_du_ville_8.html",
-  "generationDate":new Date(1398346615384.41),
+  "generationDate":new Date(1398412546038.33),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
-    "packageId":"a1f83e6c55504b2d989a9a09da18bfde",
+    "packageId":"750b453dce384cee81ac16ea97ad1fd3",
     "type":"Axure:Page",
     "name":"dit du ville",
     "notes":{

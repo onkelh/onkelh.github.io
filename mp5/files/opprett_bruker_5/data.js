@@ -1,10 +1,10 @@
 ﻿$axure.loadCurrentPage({
   "url":"opprett_bruker_5.html",
-  "generationDate":new Date(1398346613920.22),
+  "generationDate":new Date(1398412544580.22),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
-    "packageId":"14df113872fe4e1e8f341514ad61b5ac",
+    "packageId":"81440c22a64c42f2b27d9769fe6908df",
     "type":"Axure:Page",
     "name":"opprett bruker",
     "notes":{
@@ -540,7 +540,37 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"resources/images/transparent.gif"}}]}},
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"228efc091088472891a5f84fa10ec9a4",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":230,
+              "y":510},
+            "size":{
+              "width":270,
+              "height":60}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open tast engangskode in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"tast_engangskode_5.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true}]}},
   "masters":{
     "2b40fb19f33c450284c7533e94ceefb7":{
       "packageId":"2b40fb19f33c450284c7533e94ceefb7",
@@ -651,4 +681,6 @@
     "4febbe64660f4418b184f725ae5fada6":{
       "scriptId":"u23"},
     "16c08e12bf0c4fd1be8588781a4e39e6":{
-      "scriptId":"u24"}}});
+      "scriptId":"u24"},
+    "228efc091088472891a5f84fa10ec9a4":{
+      "scriptId":"u25"}}});

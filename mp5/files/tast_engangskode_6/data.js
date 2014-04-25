@@ -1,10 +1,10 @@
 ﻿$axure.loadCurrentPage({
   "url":"tast_engangskode_6.html",
-  "generationDate":new Date(1398346614558.87),
+  "generationDate":new Date(1398412545275.93),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
-    "packageId":"1475be6a137f4e16925213b985882e13",
+    "packageId":"a6ac524da4c84e65ba80df225e59691b",
     "type":"Axure:Page",
     "name":"tast engangskode",
     "notes":{
@@ -294,17 +294,17 @@
           "images":{
             "normal~":"images/tilgang_login/u11.png"}},
 {
-          "id":"781b0a5ce5434401a855433d5890a214",
+          "id":"69dba1a605104fce98e24cd2fc1e66f9",
           "label":"",
           "type":"imageMapRegion",
           "styleType":"imageMapRegion",
           "visible":true,
           "style":{
             "location":{
-              "x":420,
+              "x":430,
               "y":270},
             "size":{
-              "width":140,
+              "width":130,
               "height":60}},
           "adaptiveStyles":{
 },
@@ -410,5 +410,5 @@
       "scriptId":"u11"},
     "439ccad09662470d8d5abf2c1deb0caa":{
       "scriptId":"u12"},
-    "781b0a5ce5434401a855433d5890a214":{
+    "69dba1a605104fce98e24cd2fc1e66f9":{
       "scriptId":"u13"}}});

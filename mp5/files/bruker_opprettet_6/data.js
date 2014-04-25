@@ -1,10 +1,10 @@
 ﻿$axure.loadCurrentPage({
   "url":"bruker_opprettet_6.html",
-  "generationDate":new Date(1398346614661.52),
+  "generationDate":new Date(1398412545388.63),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
-    "packageId":"12883d9e3eaf47d4a0d1e95fa5d08e31",
+    "packageId":"714bbf1eca8446d0b9e9335962d2989c",
     "type":"Axure:Page",
     "name":"bruker opprettet",
     "notes":{
@@ -239,7 +239,7 @@
           "images":{
             "normal~":"resources/images/transparent.gif"}},
 {
-          "id":"744ac334fc9a4e8db7d2dc1a233e69aa",
+          "id":"3e2dc3683429450f874787bb56407462",
           "label":"",
           "type":"imageMapRegion",
           "styleType":"imageMapRegion",
@@ -249,7 +249,7 @@
               "x":320,
               "y":270},
             "size":{
-              "width":90,
+              "width":100,
               "height":60}},
           "adaptiveStyles":{
 },
@@ -261,10 +261,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"Open engangskjøpsiden in Current Window",
+                      "description":"Open velkommen in Current Window",
                       "target":{
                         "targetType":"page",
-                        "url":"engangskj_psiden_3.html",
+                        "url":"velkommen_7.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true}]}},
@@ -351,5 +351,5 @@
       "scriptId":"u9"},
     "9e24ae10884a48d19297211bec8059b2":{
       "scriptId":"u10"},
-    "744ac334fc9a4e8db7d2dc1a233e69aa":{
+    "3e2dc3683429450f874787bb56407462":{
       "scriptId":"u11"}}});

@@ -1,10 +1,10 @@
 ﻿$axure.loadCurrentPage({
   "url":"bruker_opprettet_5.html",
-  "generationDate":new Date(1398346614068.71),
+  "generationDate":new Date(1398412544713.99),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
-    "packageId":"102d5241fada4e88aeea36f4bb43d7e7",
+    "packageId":"12883d9e3eaf47d4a0d1e95fa5d08e31",
     "type":"Axure:Page",
     "name":"bruker opprettet",
     "notes":{
@@ -237,7 +237,37 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"resources/images/transparent.gif"}}]}},
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"744ac334fc9a4e8db7d2dc1a233e69aa",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":320,
+              "y":270},
+            "size":{
+              "width":90,
+              "height":60}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open engangskjøpsiden in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"engangskj_psiden_2.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true}]}},
   "masters":{
     "2b40fb19f33c450284c7533e94ceefb7":{
       "packageId":"2b40fb19f33c450284c7533e94ceefb7",
@@ -320,4 +350,6 @@
     "c512aaf2c7674daf9029f8ec3ed9c489":{
       "scriptId":"u9"},
     "9e24ae10884a48d19297211bec8059b2":{
-      "scriptId":"u10"}}});
+      "scriptId":"u10"},
+    "744ac334fc9a4e8db7d2dc1a233e69aa":{
+      "scriptId":"u11"}}});

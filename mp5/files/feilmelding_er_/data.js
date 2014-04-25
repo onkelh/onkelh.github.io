@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"feilmelding_er_.html",
-  "generationDate":new Date(1398346610178.25),
+  "generationDate":new Date(1398412536983.83),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -52,7 +52,7 @@
               "y":150},
             "size":{
               "width":580,
-              "height":910},
+              "height":1020},
             "borderWidth":"-1",
             "outerShadow":{
               "on":true,
@@ -79,7 +79,7 @@
                   "y":150},
                 "size":{
                   "width":580,
-                  "height":910},
+                  "height":1020},
                 "borderWidth":"-1",
                 "outerShadow":{
                   "on":true,
@@ -147,7 +147,7 @@
               "opacity":1},
             "location":{
               "x":180,
-              "y":330},
+              "y":490},
             "size":{
               "width":365,
               "height":40},
@@ -173,7 +173,7 @@
                   "opacity":1},
                 "location":{
                   "x":180,
-                  "y":330},
+                  "y":490},
                 "size":{
                   "width":365,
                   "height":40},
@@ -204,7 +204,7 @@
               "color":0xFF333333},
             "location":{
               "x":180,
-              "y":995},
+              "y":1102},
             "size":{
               "width":365,
               "height":40},
@@ -232,7 +232,7 @@
                   "color":0xFF333333},
                 "location":{
                   "x":180,
-                  "y":995},
+                  "y":1102},
                 "size":{
                   "width":365,
                   "height":40},
@@ -252,7 +252,7 @@
             "fontSize":"15px",
             "location":{
               "x":181,
-              "y":311},
+              "y":470},
             "size":{
               "width":239,
               "height":17}},
@@ -269,7 +269,7 @@
                 "fontSize":"15px",
                 "location":{
                   "x":181,
-                  "y":311},
+                  "y":470},
                 "size":{
                   "width":239,
                   "height":17}},
@@ -292,7 +292,7 @@
               "opacity":1},
             "location":{
               "x":180,
-              "y":469},
+              "y":629},
             "size":{
               "width":365,
               "height":40},
@@ -318,7 +318,7 @@
                   "opacity":1},
                 "location":{
                   "x":180,
-                  "y":469},
+                  "y":629},
                 "size":{
                   "width":365,
                   "height":40},
@@ -340,7 +340,7 @@
             "fontSize":"15px",
             "location":{
               "x":181,
-              "y":450},
+              "y":610},
             "size":{
               "width":239,
               "height":17}},
@@ -357,7 +357,7 @@
                 "fontSize":"15px",
                 "location":{
                   "x":181,
-                  "y":450},
+                  "y":610},
                 "size":{
                   "width":239,
                   "height":17}},
@@ -380,7 +380,7 @@
               "opacity":1},
             "location":{
               "x":180,
-              "y":722},
+              "y":829},
             "size":{
               "width":365,
               "height":40},
@@ -406,7 +406,7 @@
                   "opacity":1},
                 "location":{
                   "x":180,
-                  "y":722},
+                  "y":829},
                 "size":{
                   "width":365,
                   "height":40},
@@ -428,7 +428,7 @@
             "fontSize":"15px",
             "location":{
               "x":181,
-              "y":703},
+              "y":810},
             "size":{
               "width":239,
               "height":17}},
@@ -445,7 +445,7 @@
                 "fontSize":"15px",
                 "location":{
                   "x":181,
-                  "y":703},
+                  "y":810},
                 "size":{
                   "width":239,
                   "height":17}},
@@ -468,7 +468,7 @@
               "opacity":1},
             "location":{
               "x":180,
-              "y":895},
+              "y":1055},
             "size":{
               "width":20,
               "height":20},
@@ -494,7 +494,7 @@
                   "opacity":1},
                 "location":{
                   "x":180,
-                  "y":895},
+                  "y":1055},
                 "size":{
                   "width":20,
                   "height":20},
@@ -516,7 +516,7 @@
             "fontSize":"15px",
             "location":{
               "x":207,
-              "y":897},
+              "y":1004},
             "size":{
               "width":239,
               "height":17}},
@@ -533,7 +533,7 @@
                 "fontSize":"15px",
                 "location":{
                   "x":207,
-                  "y":897},
+                  "y":1004},
                 "size":{
                   "width":239,
                   "height":17}},
@@ -561,7 +561,7 @@
             "paddingBottom":"10",
             "location":{
               "x":180,
-              "y":377},
+              "y":537},
             "size":{
               "width":365,
               "height":43},
@@ -593,7 +593,7 @@
                 "paddingBottom":"10",
                 "location":{
                   "x":180,
-                  "y":377},
+                  "y":537},
                 "size":{
                   "width":365,
                   "height":43},
@@ -626,7 +626,7 @@
             "paddingBottom":"10",
             "location":{
               "x":180,
-              "y":517},
+              "y":677},
             "size":{
               "width":365,
               "height":53},
@@ -658,7 +658,7 @@
                 "paddingBottom":"10",
                 "location":{
                   "x":180,
-                  "y":517},
+                  "y":677},
                 "size":{
                   "width":365,
                   "height":53},
@@ -691,7 +691,7 @@
             "paddingBottom":"10",
             "location":{
               "x":180,
-              "y":770},
+              "y":877},
             "size":{
               "width":365,
               "height":50},
@@ -723,7 +723,7 @@
                 "paddingBottom":"10",
                 "location":{
                   "x":180,
-                  "y":770},
+                  "y":877},
                 "size":{
                   "width":365,
                   "height":50},
@@ -756,7 +756,7 @@
             "paddingBottom":"10",
             "location":{
               "x":180,
-              "y":925},
+              "y":1032},
             "size":{
               "width":365,
               "height":50},
@@ -788,7 +788,7 @@
                 "paddingBottom":"10",
                 "location":{
                   "x":180,
-                  "y":925},
+                  "y":1032},
                 "size":{
                   "width":365,
                   "height":50},
@@ -945,7 +945,7 @@
             "paddingBottom":"10",
             "location":{
               "x":180,
-              "y":580},
+              "y":740},
             "size":{
               "width":365,
               "height":40},
@@ -977,7 +977,7 @@
                 "paddingBottom":"10",
                 "location":{
                   "x":180,
-                  "y":580},
+                  "y":740},
                 "size":{
                   "width":365,
                   "height":40},
@@ -1010,7 +1010,7 @@
             "paddingBottom":"10",
             "location":{
               "x":180,
-              "y":630},
+              "y":295},
             "size":{
               "width":365,
               "height":50},
@@ -1042,7 +1042,7 @@
                 "paddingBottom":"10",
                 "location":{
                   "x":180,
-                  "y":630},
+                  "y":295},
                 "size":{
                   "width":365,
                   "height":50},
@@ -1138,7 +1138,7 @@
             "paddingBottom":"10",
             "location":{
               "x":180,
-              "y":830},
+              "y":937},
             "size":{
               "width":365,
               "height":40},
@@ -1170,7 +1170,7 @@
                 "paddingBottom":"10",
                 "location":{
                   "x":180,
-                  "y":830},
+                  "y":937},
                 "size":{
                   "width":365,
                   "height":40},
@@ -1300,7 +1300,72 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"resources/images/transparent.gif"}}]}},
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"afa93e2f68564d5ab6fee9fd8217977e",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontSize":"15px",
+            "horizontalAlignment":"left",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF1E1E1E,
+              "opacity":1},
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFFADAE6},
+            "paddingTop":"10",
+            "paddingBottom":"10",
+            "location":{
+              "x":180,
+              "y":353},
+            "size":{
+              "width":365,
+              "height":87},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFE4E4E4},
+            "cornerRadiusTopLeft":"5"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"36edd2edc4f7494ca9f03aa4a7f374a9",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontSize":"15px",
+                "horizontalAlignment":"left",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF1E1E1E,
+                  "opacity":1},
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFADAE6},
+                "paddingTop":"10",
+                "paddingBottom":"10",
+                "location":{
+                  "x":180,
+                  "y":353},
+                "size":{
+                  "width":365,
+                  "height":87},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFE4E4E4},
+                "cornerRadiusTopLeft":"5"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/feilmelding_er_/u49.png"}}]}},
   "masters":{
     "2b40fb19f33c450284c7533e94ceefb7":{
       "packageId":"2b40fb19f33c450284c7533e94ceefb7",
@@ -1459,4 +1524,8 @@
     "0cd2b9af78ea428b94213ccf23041c5e":{
       "scriptId":"u47"},
     "b5823ca58157438598d4ea98544b4aa1":{
-      "scriptId":"u48"}}});
+      "scriptId":"u48"},
+    "afa93e2f68564d5ab6fee9fd8217977e":{
+      "scriptId":"u49"},
+    "36edd2edc4f7494ca9f03aa4a7f374a9":{
+      "scriptId":"u50"}}});

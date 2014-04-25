@@ -1,10 +1,10 @@
 ﻿$axure.loadCurrentPage({
   "url":"tilgang_login_7.html",
-  "generationDate":new Date(1398346615058.32),
+  "generationDate":new Date(1398412545646.48),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
-    "packageId":"8200f2aa816b4b96b4b74491ee178f3d",
+    "packageId":"1913312ebcb24362854ae6f680429ae2",
     "type":"Axure:Page",
     "name":"tilgang/login",
     "notes":{
@@ -508,7 +508,7 @@
           "images":{
             "normal~":"resources/images/transparent.gif"}},
 {
-          "id":"fb556e4293394ede848815ef25a777f8",
+          "id":"bbc83b653be5476fb640791911c26257",
           "label":"",
           "type":"imageMapRegion",
           "styleType":"imageMapRegion",
@@ -642,5 +642,5 @@
       "scriptId":"u20"},
     "3c692c53f9d742b38e41a3867f9713f2":{
       "scriptId":"u21"},
-    "fb556e4293394ede848815ef25a777f8":{
+    "bbc83b653be5476fb640791911c26257":{
       "scriptId":"u22"}}});

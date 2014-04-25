@@ -1,10 +1,10 @@
 ﻿$axure.loadCurrentPage({
   "url":"insentivside_6.html",
-  "generationDate":new Date(1398346613767.46),
+  "generationDate":new Date(1398412544412.54),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
-    "packageId":"1b716f993aa84143b5a433999631d49c",
+    "packageId":"5c13b93327cd4562ba605cd469c1833e",
     "type":"Axure:Page",
     "name":"insentivside",
     "notes":{
@@ -533,7 +533,37 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/insentivside/u21.png"}}]}},
+            "normal~":"images/insentivside/u21.png"}},
+{
+          "id":"fad38cd10ef74f2fb78d0da4f64dd769",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":380,
+              "y":430},
+            "size":{
+              "width":360,
+              "height":60}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open tilgang/login in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"tilgang_login_5.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true}]}},
   "masters":{
 },
   "objectPaths":{
@@ -582,4 +612,6 @@
     "6c9e540ab4fa4eddb3a4bc4797d33429":{
       "scriptId":"u21"},
     "c31625d7c13643de908a65c01c6e5ff9":{
-      "scriptId":"u22"}}});
+      "scriptId":"u22"},
+    "fad38cd10ef74f2fb78d0da4f64dd769":{
+      "scriptId":"u23"}}});

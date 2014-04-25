@@ -126,3 +126,12 @@
   width:500px;
   word-wrap:break-word;
 }
+#u11 {
+  position:absolute;
+  left:320px;
+  top:270px;
+  width:90px;
+  height:60px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}

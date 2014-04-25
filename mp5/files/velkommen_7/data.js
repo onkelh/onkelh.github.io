@@ -1,10 +1,10 @@
 ﻿$axure.loadCurrentPage({
   "url":"velkommen_7.html",
-  "generationDate":new Date(1398346614864.15),
+  "generationDate":new Date(1398412545460.62),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
-    "packageId":"10546c27d9f048dfa2949182f0f94d69",
+    "packageId":"7ba083746483401190e4a289598ead39",
     "type":"Axure:Page",
     "name":"velkommen",
     "notes":{
@@ -395,7 +395,7 @@
           "images":{
             "normal~":"resources/images/transparent.gif"}},
 {
-          "id":"a3de5c8694454b87aeb2a104e4c8a5a2",
+          "id":"3472482ecf794cb1851bc429e2c7458b",
           "label":"",
           "type":"imageMapRegion",
           "styleType":"imageMapRegion",
@@ -405,7 +405,7 @@
               "x":320,
               "y":270},
             "size":{
-              "width":90,
+              "width":100,
               "height":60}},
           "adaptiveStyles":{
 },
@@ -523,5 +523,5 @@
       "scriptId":"u17"},
     "fbcfbc2526014af59cb902f97067d31e":{
       "scriptId":"u18"},
-    "a3de5c8694454b87aeb2a104e4c8a5a2":{
+    "3472482ecf794cb1851bc429e2c7458b":{
       "scriptId":"u19"}}});

@@ -1,10 +1,10 @@
 ﻿$axure.loadCurrentPage({
   "url":"bruker_opprettet_7.html",
-  "generationDate":new Date(1398346615275.96),
+  "generationDate":new Date(1398412545874.49),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
-    "packageId":"714bbf1eca8446d0b9e9335962d2989c",
+    "packageId":"d2bf31df2fa146a8a0ce53126909a081",
     "type":"Axure:Page",
     "name":"bruker opprettet",
     "notes":{
@@ -239,7 +239,7 @@
           "images":{
             "normal~":"resources/images/transparent.gif"}},
 {
-          "id":"3e2dc3683429450f874787bb56407462",
+          "id":"0de68ebba4be49be84ecf8874eacf3a3",
           "label":"",
           "type":"imageMapRegion",
           "styleType":"imageMapRegion",
@@ -249,7 +249,7 @@
               "x":320,
               "y":270},
             "size":{
-              "width":100,
+              "width":90,
               "height":60}},
           "adaptiveStyles":{
 },
@@ -261,10 +261,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"Open velkommen in Current Window",
+                      "description":"Open bekreft at du er abonnent in Current Window",
                       "target":{
                         "targetType":"page",
-                        "url":"velkommen_8.html",
+                        "url":"bekreft_at_du_er_abonnent_1.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true}]}},
@@ -351,5 +351,5 @@
       "scriptId":"u9"},
     "9e24ae10884a48d19297211bec8059b2":{
       "scriptId":"u10"},
-    "3e2dc3683429450f874787bb56407462":{
+    "0de68ebba4be49be84ecf8874eacf3a3":{
       "scriptId":"u11"}}});

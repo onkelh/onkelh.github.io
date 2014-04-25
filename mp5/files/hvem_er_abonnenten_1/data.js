@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"hvem_er_abonnenten_1.html",
-  "generationDate":new Date(1398346616895.37),
+  "generationDate":new Date(1398412547060.7),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -532,7 +532,7 @@
                       "description":"Open velkommen in Current Window",
                       "target":{
                         "targetType":"page",
-                        "url":"velkommen_11.html",
+                        "url":"velkommen_10.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true}]}},

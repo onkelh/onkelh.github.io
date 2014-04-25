@@ -1,10 +1,10 @@
 ﻿$axure.loadCurrentPage({
   "url":"tast_engangskode_5.html",
-  "generationDate":new Date(1398346613968.96),
+  "generationDate":new Date(1398412544631.59),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
-    "packageId":"6ec5eabd6096415b9ff1ea56a5932d88",
+    "packageId":"1475be6a137f4e16925213b985882e13",
     "type":"Axure:Page",
     "name":"tast engangskode",
     "notes":{
@@ -292,7 +292,37 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/tilgang_login/u11.png"}}]}},
+            "normal~":"images/tilgang_login/u11.png"}},
+{
+          "id":"781b0a5ce5434401a855433d5890a214",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":420,
+              "y":270},
+            "size":{
+              "width":140,
+              "height":60}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open velg passord in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"velg_passord_5.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true}]}},
   "masters":{
     "2b40fb19f33c450284c7533e94ceefb7":{
       "packageId":"2b40fb19f33c450284c7533e94ceefb7",
@@ -379,4 +409,6 @@
     "9bfaba4595104a149fa9870eae30b24d":{
       "scriptId":"u11"},
     "439ccad09662470d8d5abf2c1deb0caa":{
-      "scriptId":"u12"}}});
+      "scriptId":"u12"},
+    "781b0a5ce5434401a855433d5890a214":{
+      "scriptId":"u13"}}});

@@ -150,3 +150,12 @@
   width:236px;
   word-wrap:break-word;
 }
+#u13 {
+  position:absolute;
+  left:420px;
+  top:270px;
+  width:150px;
+  height:60px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}

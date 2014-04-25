@@ -1,10 +1,10 @@
 ﻿$axure.loadCurrentPage({
   "url":"opprett_bruker_7.html",
-  "generationDate":new Date(1398346615139.93),
+  "generationDate":new Date(1398412545718.05),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
-    "packageId":"ff41fb5016974061b9ee3dc750f8cc6b",
+    "packageId":"5f8bf209588d4d2b9f127a9055503de6",
     "type":"Axure:Page",
     "name":"opprett bruker",
     "notes":{
@@ -542,7 +542,7 @@
           "images":{
             "normal~":"resources/images/transparent.gif"}},
 {
-          "id":"41116102af3f45acbc70bf20db1985d5",
+          "id":"63ede7e06b6047918782aa94a1c0c2b3",
           "label":"",
           "type":"imageMapRegion",
           "styleType":"imageMapRegion",
@@ -682,5 +682,5 @@
       "scriptId":"u23"},
     "16c08e12bf0c4fd1be8588781a4e39e6":{
       "scriptId":"u24"},
-    "41116102af3f45acbc70bf20db1985d5":{
+    "63ede7e06b6047918782aa94a1c0c2b3":{
       "scriptId":"u25"}}});

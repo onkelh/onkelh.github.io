@@ -1,10 +1,10 @@
 ﻿$axure.loadCurrentPage({
   "url":"velkommen_6.html",
-  "generationDate":new Date(1398346614254.11),
+  "generationDate":new Date(1398412544973.77),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
-    "packageId":"2e2be489703c4a5b8854dbdcea4ebf4b",
+    "packageId":"10546c27d9f048dfa2949182f0f94d69",
     "type":"Axure:Page",
     "name":"velkommen",
     "notes":{
@@ -393,7 +393,37 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"resources/images/transparent.gif"}}]}},
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"a3de5c8694454b87aeb2a104e4c8a5a2",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":320,
+              "y":270},
+            "size":{
+              "width":90,
+              "height":60}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open dit du ville in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"dit_du_ville_6.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true}]}},
   "masters":{
     "2b40fb19f33c450284c7533e94ceefb7":{
       "packageId":"2b40fb19f33c450284c7533e94ceefb7",
@@ -492,4 +522,6 @@
     "456b038b826143d391d1cf25e8107fca":{
       "scriptId":"u17"},
     "fbcfbc2526014af59cb902f97067d31e":{
-      "scriptId":"u18"}}});
+      "scriptId":"u18"},
+    "a3de5c8694454b87aeb2a104e4c8a5a2":{
+      "scriptId":"u19"}}});

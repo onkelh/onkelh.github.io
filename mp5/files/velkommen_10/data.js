@@ -1,10 +1,10 @@
 ﻿$axure.loadCurrentPage({
   "url":"velkommen_10.html",
-  "generationDate":new Date(1398346616410.08),
+  "generationDate":new Date(1398412547138.32),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
-    "packageId":"2ae590f7d3014474b5cdb3b269a3d2d0",
+    "packageId":"b4625c0c4a4b4cb2b674d3339bdf7f6d",
     "type":"Axure:Page",
     "name":"velkommen",
     "notes":{
@@ -395,7 +395,7 @@
           "images":{
             "normal~":"resources/images/transparent.gif"}},
 {
-          "id":"ec81b9b40f2147d68abf7e47989534d7",
+          "id":"af470c37504d431ab59b4f18b21811c2",
           "label":"",
           "type":"imageMapRegion",
           "styleType":"imageMapRegion",
@@ -523,5 +523,5 @@
       "scriptId":"u17"},
     "fbcfbc2526014af59cb902f97067d31e":{
       "scriptId":"u18"},
-    "ec81b9b40f2147d68abf7e47989534d7":{
+    "af470c37504d431ab59b4f18b21811c2":{
       "scriptId":"u19"}}});

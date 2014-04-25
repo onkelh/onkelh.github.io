@@ -13,78 +13,94 @@
     "loadFeedbackPlugin":false},
   "sitemap":{
     "rootNodes":[{
+        "pageName":"MP5 - baseline (med feilmeldinger)",
+        "type":"Folder",
+        "url":"",
+        "children":[{
+            "pageName":"insentivside",
+            "type":"Wireframe",
+            "url":"insentivside.html"},
+{
+            "pageName":"tilgang/login",
+            "type":"Wireframe",
+            "url":"tilgang_login.html",
+            "children":[{
+                "pageName":"feilmeldinger",
+                "type":"Wireframe",
+                "url":"feilmeldinger.html"}]},
+{
+            "pageName":"opprett bruker",
+            "type":"Wireframe",
+            "url":"opprett_bruker.html",
+            "children":[{
+                "pageName":"feilmelding(er)",
+                "type":"Wireframe",
+                "url":"feilmelding_er_.html"}]},
+{
+            "pageName":"tast engangskode",
+            "type":"Wireframe",
+            "url":"tast_engangskode.html",
+            "children":[{
+                "pageName":"feilmelding(er)",
+                "type":"Wireframe",
+                "url":"feilmelding_er__1.html"}]},
+{
+            "pageName":"velg passord",
+            "type":"Wireframe",
+            "url":"velg_passord.html",
+            "children":[{
+                "pageName":"feilmelding(er)",
+                "type":"Wireframe",
+                "url":"feilmelding_er__2.html"}]},
+{
+            "pageName":"bruker opprettet",
+            "type":"Wireframe",
+            "url":"bruker_opprettet.html"},
+{
+            "pageName":"engangskjøpsiden",
+            "type":"Wireframe",
+            "url":"engangskj_psiden.html"},
+{
+            "pageName":"tast kjøpskode",
+            "type":"Wireframe",
+            "url":"tast_kj_pskode.html",
+            "children":[{
+                "pageName":"feilmelding(er)",
+                "type":"Wireframe",
+                "url":"feilmelding_er__3.html"}]},
+{
+            "pageName":"velkommen",
+            "type":"Wireframe",
+            "url":"velkommen.html"},
+{
+            "pageName":"dit du ville",
+            "type":"Wireframe",
+            "url":"dit_du_ville.html"},
+{
+            "pageName":"feilkortene",
+            "type":"Folder",
+            "url":"",
+            "children":[{
+                "pageName":"feilkort: systemfeil",
+                "type":"Wireframe",
+                "url":"feilkort__systemfeil.html"},
+{
+                "pageName":"feilkort: gratisløp for ANDRE gang",
+                "type":"Wireframe",
+                "url":"feilkort__gratisl_p_for_andre_gang.html"},
+{
+                "pageName":"feilkort: familieløp for ANDRE gang",
+                "type":"Wireframe",
+                "url":"feilkort__familiel_p_for_andre_gang.html"},
+{
+                "pageName":"feilkort: enkel registrering for ANDRE gang",
+                "type":"Wireframe",
+                "url":"feilkort__enkel_registrering_for_andre_gang.html"}]}]},
+{
         "pageName":"MP5 - innlogget",
         "type":"Folder",
         "url":"",
         "children":[{
-            "pageName":"baseline (med feilmeldinger)",
-            "type":"Folder",
-            "url":"",
-            "children":[{
-                "pageName":"insentivside",
-                "type":"Wireframe",
-                "url":"insentivside.html"},
-{
-                "pageName":"tilgang/login",
-                "type":"Wireframe",
-                "url":"tilgang_login.html",
-                "children":[{
-                    "pageName":"feilmeldinger",
-                    "type":"Wireframe",
-                    "url":"feilmeldinger.html"}]},
-{
-                "pageName":"opprett bruker",
-                "type":"Wireframe",
-                "url":"opprett_bruker.html",
-                "children":[{
-                    "pageName":"feilmelding(er)",
-                    "type":"Wireframe",
-                    "url":"feilmelding_er_.html"}]},
-{
-                "pageName":"tast engangskode",
-                "type":"Wireframe",
-                "url":"tast_engangskode.html",
-                "children":[{
-                    "pageName":"feilmelding(er)",
-                    "type":"Wireframe",
-                    "url":"feilmelding_er__1.html"}]},
-{
-                "pageName":"velg passord",
-                "type":"Wireframe",
-                "url":"velg_passord.html",
-                "children":[{
-                    "pageName":"feilmelding(er)",
-                    "type":"Wireframe",
-                    "url":"feilmelding_er__2.html"}]},
-{
-                "pageName":"bruker opprettet",
-                "type":"Wireframe",
-                "url":"bruker_opprettet.html"},
-{
-                "pageName":"engangskjøpsiden",
-                "type":"Wireframe",
-                "url":"engangskj_psiden.html"},
-{
-                "pageName":"tast kjøpskode",
-                "type":"Wireframe",
-                "url":"tast_kj_pskode.html",
-                "children":[{
-                    "pageName":"feilmelding(er)",
-                    "type":"Wireframe",
-                    "url":"feilmelding_er__3.html"}]},
-{
-                "pageName":"velkommen",
-                "type":"Wireframe",
-                "url":"velkommen.html"},
-{
-                "pageName":"dit du ville",
-                "type":"Wireframe",
-                "url":"dit_du_ville.html"},
-{
-                "pageName":"feilkort: bruker har prøvd å få tilgang før",
-                "type":"Wireframe",
-                "url":"feilkort__bruker_har_pr_vd___f__tilgang_f_r.html"}]},
-{
             "pageName":"kjøpsløp (har aID fra før)",
             "type":"Folder",
             "url":"",
@@ -265,7 +281,7 @@
         "type":"Folder",
         "url":"",
         "children":[{
-            "pageName":"baseline",
+            "pageName":"kjøpsløp (ingen aID fra før)",
             "type":"Folder",
             "url":"",
             "children":[{
@@ -309,7 +325,7 @@
                 "type":"Wireframe",
                 "url":"dit_du_ville_6.html"}]},
 {
-            "pageName":"kjøpsløp (ingen aID fra før)",
+            "pageName":"abonnent (har ikke aID, er i Infosoft)",
             "type":"Folder",
             "url":"",
             "children":[{
@@ -337,14 +353,6 @@
                 "type":"Wireframe",
                 "url":"bruker_opprettet_6.html"},
 {
-                "pageName":"engangskjøpsiden",
-                "type":"Wireframe",
-                "url":"engangskj_psiden_3.html"},
-{
-                "pageName":"tast kjøpskode",
-                "type":"Wireframe",
-                "url":"tast_kj_pskode_3.html"},
-{
                 "pageName":"velkommen",
                 "type":"Wireframe",
                 "url":"velkommen_7.html"},
@@ -353,7 +361,7 @@
                 "type":"Wireframe",
                 "url":"dit_du_ville_7.html"}]},
 {
-            "pageName":"abonnent (har ikke aID, er i Infosoft)",
+            "pageName":"abonnent (har ikke aID, ikke i Infosoft)",
             "type":"Folder",
             "url":"",
             "children":[{
@@ -381,6 +389,10 @@
                 "type":"Wireframe",
                 "url":"bruker_opprettet_7.html"},
 {
+                "pageName":"bekreft at du er abonnent",
+                "type":"Wireframe",
+                "url":"bekreft_at_du_er_abonnent_1.html"},
+{
                 "pageName":"velkommen",
                 "type":"Wireframe",
                 "url":"velkommen_8.html"},
@@ -389,7 +401,7 @@
                 "type":"Wireframe",
                 "url":"dit_du_ville_8.html"}]},
 {
-            "pageName":"abonnent (har ikke aID, ikke i Infosoft)",
+            "pageName":"gratisløpet (har ikke aID fra før)",
             "type":"Folder",
             "url":"",
             "children":[{
@@ -417,10 +429,6 @@
                 "type":"Wireframe",
                 "url":"bruker_opprettet_8.html"},
 {
-                "pageName":"bekreft at du er abonnent",
-                "type":"Wireframe",
-                "url":"bekreft_at_du_er_abonnent_1.html"},
-{
                 "pageName":"velkommen",
                 "type":"Wireframe",
                 "url":"velkommen_9.html"},
@@ -429,7 +437,7 @@
                 "type":"Wireframe",
                 "url":"dit_du_ville_9.html"}]},
 {
-            "pageName":"gratisløpet (har ikke aID fra før)",
+            "pageName":"familieløpet (har ikke aID fra før)",
             "type":"Folder",
             "url":"",
             "children":[{
@@ -457,53 +465,17 @@
                 "type":"Wireframe",
                 "url":"bruker_opprettet_9.html"},
 {
-                "pageName":"velkommen",
-                "type":"Wireframe",
-                "url":"velkommen_10.html"},
-{
-                "pageName":"dit du ville",
-                "type":"Wireframe",
-                "url":"dit_du_ville_10.html"}]},
-{
-            "pageName":"familieløpet (har ikke aID fra før)",
-            "type":"Folder",
-            "url":"",
-            "children":[{
-                "pageName":"insentivside",
-                "type":"Wireframe",
-                "url":"insentivside_11.html"},
-{
-                "pageName":"tilgang/login",
-                "type":"Wireframe",
-                "url":"tilgang_login_10.html"},
-{
-                "pageName":"opprett bruker",
-                "type":"Wireframe",
-                "url":"opprett_bruker_10.html"},
-{
-                "pageName":"tast engangskode",
-                "type":"Wireframe",
-                "url":"tast_engangskode_10.html"},
-{
-                "pageName":"velg passord",
-                "type":"Wireframe",
-                "url":"velg_passord_10.html"},
-{
-                "pageName":"bruker opprettet",
-                "type":"Wireframe",
-                "url":"bruker_opprettet_10.html"},
-{
                 "pageName":"hvem er abonnenten",
                 "type":"Wireframe",
                 "url":"hvem_er_abonnenten_1.html"},
 {
                 "pageName":"velkommen",
                 "type":"Wireframe",
-                "url":"velkommen_11.html"},
+                "url":"velkommen_10.html"},
 {
                 "pageName":"dit du ville",
                 "type":"Wireframe",
-                "url":"dit_du_ville_11.html"}]}]}]},
+                "url":"dit_du_ville_10.html"}]}]}]},
   "globalVariables":{
     "onloadvariable":""},
   "defaultAdaptiveView":{

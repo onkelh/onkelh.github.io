@@ -1,10 +1,10 @@
 ﻿$axure.loadCurrentPage({
   "url":"velg_passord_8.html",
-  "generationDate":new Date(1398346615711.18),
+  "generationDate":new Date(1398412546372.75),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
-    "packageId":"2e45ddfc405243559ad1d6aa98a0d1cd",
+    "packageId":"b478edf1907a4f9aa1c97191a16c20e1",
     "type":"Axure:Page",
     "name":"velg passord",
     "notes":{
@@ -292,7 +292,7 @@
           "images":{
             "normal~":"images/tilgang_login/u11.png"}},
 {
-          "id":"5588d10b61c24854806fa76604c2f409",
+          "id":"efccdf46bbc848768dcde2a173a92426",
           "label":"",
           "type":"imageMapRegion",
           "styleType":"imageMapRegion",
@@ -408,5 +408,5 @@
       "scriptId":"u11"},
     "439ccad09662470d8d5abf2c1deb0caa":{
       "scriptId":"u12"},
-    "5588d10b61c24854806fa76604c2f409":{
+    "efccdf46bbc848768dcde2a173a92426":{
       "scriptId":"u13"}}});
