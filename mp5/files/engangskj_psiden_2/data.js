@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"engangskj_psiden_2.html",
-  "generationDate":new Date(1398428162753.24),
+  "generationDate":new Date(1398759172779.61),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -625,10 +625,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"Open tast kjøpskode in Current Window",
+                      "description":"Open tilgang/login in Current Window",
                       "target":{
                         "targetType":"page",
-                        "url":"tast_kj_pskode_2.html",
+                        "url":"tilgang_login_5.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true}]}},

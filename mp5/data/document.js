@@ -293,6 +293,10 @@
                 "type":"Wireframe",
                 "url":"insentivside_6.html"},
 {
+                "pageName":"engangskjøpsiden",
+                "type":"Wireframe",
+                "url":"engangskj_psiden_2.html"},
+{
                 "pageName":"tilgang/login",
                 "type":"Wireframe",
                 "url":"tilgang_login_5.html"},
@@ -312,10 +316,6 @@
                 "pageName":"bruker opprettet",
                 "type":"Wireframe",
                 "url":"bruker_opprettet_5.html"},
-{
-                "pageName":"engangskjøpsiden",
-                "type":"Wireframe",
-                "url":"engangskj_psiden_2.html"},
 {
                 "pageName":"tast kjøpskode",
                 "type":"Wireframe",

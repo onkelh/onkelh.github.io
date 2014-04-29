@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"bekreft_at_du_er_abonnent.html",
-  "generationDate":new Date(1398428160954.2),
+  "generationDate":new Date(1398759171331.34),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

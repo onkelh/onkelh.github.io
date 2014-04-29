@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"insentivside_6.html",
-  "generationDate":new Date(1398428162367.9),
+  "generationDate":new Date(1398759172704.93),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -557,10 +557,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"Open tilgang/login in Current Window",
+                      "description":"Open engangskjøpsiden in Current Window",
                       "target":{
                         "targetType":"page",
-                        "url":"tilgang_login_5.html",
+                        "url":"engangskj_psiden_2.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true}]}},
