@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"opprett_bruker_9.html",
-  "generationDate":new Date(1398759175343.74),
+  "generationDate":new Date(1398844320761.29),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -94,7 +94,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/opprett_bruker/u3.png"}},
+            "normal~":"images/opprett_bruker_1/u3.png"}},
 {
           "id":"b42be97e4dc347b487295ede97daff91",
           "label":"",
