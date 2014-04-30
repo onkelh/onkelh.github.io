@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"opprett_bruker.html",
-  "generationDate":new Date(1398844309714.98),
+  "generationDate":new Date(1398860909493.56),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -936,7 +936,7 @@
                     "normal~":"images/opprett_bruker/u40.png"}},
 {
                   "id":"fc5da85843a84646ab96225ff4215543",
-                  "label":"",
+                  "label":"brukervilkår heading",
                   "parentDynamicPanel":"9206bc421ca442d5bbbf31353eb65060",
                   "panelIndex":0,
                   "type":"buttonShape",

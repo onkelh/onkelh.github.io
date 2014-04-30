@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"tilgang_login_2.html",
-  "generationDate":new Date(1398844316183.44),
+  "generationDate":new Date(1398860915523.51),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

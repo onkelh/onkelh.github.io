@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"dit_du_ville_2.html",
-  "generationDate":new Date(1398844316010.17),
+  "generationDate":new Date(1398860915371.44),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
