@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"tast_engangskode.html",
-  "generationDate":new Date(1398860909848.61),
+  "generationDate":new Date(1400747818661.1),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -135,7 +135,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/insentivside/u19.png"}},
+            "normal~":"images/tilgang_login_-_responsive_view/u5.png"}},
 {
           "id":"ce841c68e270422fbe05b834ba782bd4",
           "label":"",
@@ -292,7 +292,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/tilgang_login/u11.png"}}]}},
+            "normal~":"images/tilgang_login_-_responsive_view/u11.png"}}]}},
   "masters":{
     "2b40fb19f33c450284c7533e94ceefb7":{
       "packageId":"2b40fb19f33c450284c7533e94ceefb7",
@@ -352,7 +352,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/tilgang_login/u1.jpg"}}]}}},
+              "normal~":"images/tilgang_login_-_responsive_view/u1.jpg"}}]}}},
   "objectPaths":{
     "3b66713c9cb746faaea7152a3f199e3b":{
       "scriptId":"u0",

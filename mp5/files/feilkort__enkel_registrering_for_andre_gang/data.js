@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"feilkort__enkel_registrering_for_andre_gang.html",
-  "generationDate":new Date(1398860914463.39),
+  "generationDate":new Date(1400747823348.62),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -170,7 +170,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/insentivside/u19.png"}},
+            "normal~":"images/tilgang_login_-_responsive_view/u5.png"}},
 {
           "id":"ce841c68e270422fbe05b834ba782bd4",
           "label":"",
@@ -562,7 +562,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/tilgang_login/u1.jpg"}}]}}},
+              "normal~":"images/tilgang_login_-_responsive_view/u1.jpg"}}]}}},
   "objectPaths":{
     "a7963cd3dd4545afbf28677ae6e24848":{
       "scriptId":"u0"},

@@ -21,13 +21,17 @@
         "type":"Folder",
         "url":"",
         "children":[{
-            "pageName":"insentivside",
+            "pageName":"insentivside (MED tidsbegrensning - responsive view)",
             "type":"Wireframe",
-            "url":"insentivside.html"},
+            "url":"insentivside__med_tidsbegrensning_-_responsive_vie.html"},
 {
-            "pageName":"tilgang/login",
+            "pageName":"insentivside (UTEN tidsbegrenset - responsive view)",
             "type":"Wireframe",
-            "url":"tilgang_login.html",
+            "url":"insentivside__uten_tidsbegrenset_-_responsive_view.html"},
+{
+            "pageName":"tilgang/login - responsive view",
+            "type":"Wireframe",
+            "url":"tilgang_login_-_responsive_view.html",
             "children":[{
                 "pageName":"feilmeldinger",
                 "type":"Wireframe",
@@ -111,7 +115,7 @@
             "children":[{
                 "pageName":"insentivside",
                 "type":"Wireframe",
-                "url":"insentivside_1.html"},
+                "url":"insentivside.html"},
 {
                 "pageName":"engangskjøpsiden",
                 "type":"Wireframe",
@@ -135,11 +139,11 @@
             "children":[{
                 "pageName":"insentivside",
                 "type":"Wireframe",
-                "url":"insentivside_2.html"},
+                "url":"insentivside_1.html"},
 {
                 "pageName":"tilgang/login",
                 "type":"Wireframe",
-                "url":"tilgang_login_1.html"},
+                "url":"tilgang_login.html"},
 {
                 "pageName":"opprett bruker",
                 "type":"Wireframe",
@@ -171,11 +175,11 @@
             "children":[{
                 "pageName":"insentivside",
                 "type":"Wireframe",
-                "url":"insentivside_3.html"},
+                "url":"insentivside_2.html"},
 {
                 "pageName":"tilgang/login",
                 "type":"Wireframe",
-                "url":"tilgang_login_2.html"},
+                "url":"tilgang_login_1.html"},
 {
                 "pageName":"opprett bruker",
                 "type":"Wireframe",
@@ -211,11 +215,11 @@
             "children":[{
                 "pageName":"insentivside",
                 "type":"Wireframe",
-                "url":"insentivside_4.html"},
+                "url":"insentivside_3.html"},
 {
                 "pageName":"tilgang/login",
                 "type":"Wireframe",
-                "url":"tilgang_login_3.html"},
+                "url":"tilgang_login_2.html"},
 {
                 "pageName":"opprett bruker",
                 "type":"Wireframe",
@@ -247,11 +251,11 @@
             "children":[{
                 "pageName":"insentivside",
                 "type":"Wireframe",
-                "url":"insentivside_5.html"},
+                "url":"insentivside_4.html"},
 {
                 "pageName":"tilgang/login",
                 "type":"Wireframe",
-                "url":"tilgang_login_4.html"},
+                "url":"tilgang_login_3.html"},
 {
                 "pageName":"opprett bruker",
                 "type":"Wireframe",
@@ -285,13 +289,13 @@
         "type":"Folder",
         "url":"",
         "children":[{
-            "pageName":"kjøpsløp (ingen aID fra før)",
+            "pageName":"kjøpsløp (har ikke aid fra før)",
             "type":"Folder",
             "url":"",
             "children":[{
                 "pageName":"insentivside",
                 "type":"Wireframe",
-                "url":"insentivside_6.html"},
+                "url":"insentivside_5.html"},
 {
                 "pageName":"engangskjøpsiden",
                 "type":"Wireframe",
@@ -299,7 +303,7 @@
 {
                 "pageName":"tilgang/login",
                 "type":"Wireframe",
-                "url":"tilgang_login_5.html"},
+                "url":"tilgang_login_4.html"},
 {
                 "pageName":"opprett bruker",
                 "type":"Wireframe",
@@ -335,11 +339,11 @@
             "children":[{
                 "pageName":"insentivside",
                 "type":"Wireframe",
-                "url":"insentivside_7.html"},
+                "url":"insentivside_6.html"},
 {
                 "pageName":"tilgang/login",
                 "type":"Wireframe",
-                "url":"tilgang_login_6.html"},
+                "url":"tilgang_login_5.html"},
 {
                 "pageName":"opprett bruker",
                 "type":"Wireframe",
@@ -371,11 +375,11 @@
             "children":[{
                 "pageName":"insentivside",
                 "type":"Wireframe",
-                "url":"insentivside_8.html"},
+                "url":"insentivside_7.html"},
 {
                 "pageName":"tilgang/login",
                 "type":"Wireframe",
-                "url":"tilgang_login_7.html"},
+                "url":"tilgang_login_6.html"},
 {
                 "pageName":"opprett bruker",
                 "type":"Wireframe",
@@ -411,11 +415,11 @@
             "children":[{
                 "pageName":"insentivside",
                 "type":"Wireframe",
-                "url":"insentivside_9.html"},
+                "url":"insentivside_8.html"},
 {
                 "pageName":"tilgang/login",
                 "type":"Wireframe",
-                "url":"tilgang_login_8.html"},
+                "url":"tilgang_login_7.html"},
 {
                 "pageName":"opprett bruker",
                 "type":"Wireframe",
@@ -447,11 +451,11 @@
             "children":[{
                 "pageName":"insentivside",
                 "type":"Wireframe",
-                "url":"insentivside_10.html"},
+                "url":"insentivside_9.html"},
 {
                 "pageName":"tilgang/login",
                 "type":"Wireframe",
-                "url":"tilgang_login_9.html"},
+                "url":"tilgang_login_8.html"},
 {
                 "pageName":"opprett bruker",
                 "type":"Wireframe",

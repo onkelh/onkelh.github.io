@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"startside_for_prototypen.html",
-  "generationDate":new Date(1398860908474.37),
+  "generationDate":new Date(1400747817301.45),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -75,7 +75,7 @@
               "y":80},
             "size":{
               "width":480,
-              "height":310}},
+              "height":210}},
           "adaptiveStyles":{
 },
           "objects":[{
@@ -92,11 +92,68 @@
                   "y":80},
                 "size":{
                   "width":480,
-                  "height":310}},
+                  "height":210}},
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"resources/images/transparent.gif"}}]}},
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"67f1a510a5484381b526e46e41fa81a9",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontSize":"15px",
+            "horizontalAlignment":"left",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF,
+              "opacity":1},
+            "fill":{
+              "fillType":"solid",
+              "color":0xFF009900},
+            "paddingTop":"20",
+            "paddingBottom":"20",
+            "location":{
+              "x":20,
+              "y":290},
+            "size":{
+              "width":420,
+              "height":90},
+            "borderWidth":"-1"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"decefaaefa1a42f3a647df99e2ad6aa8",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontSize":"15px",
+                "horizontalAlignment":"left",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF,
+                  "opacity":1},
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFF009900},
+                "paddingTop":"20",
+                "paddingBottom":"20",
+                "location":{
+                  "x":20,
+                  "y":290},
+                "size":{
+                  "width":420,
+                  "height":90},
+                "borderWidth":"-1"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/startside_for_prototypen/u4.png"}}]}},
   "masters":{
 },
   "objectPaths":{
@@ -107,4 +164,8 @@
     "a9b449331f814e18b47569e880f3a5e1":{
       "scriptId":"u2"},
     "b47c2fe9de5e4c5dbf4d08b7e4d5f0b9":{
-      "scriptId":"u3"}}});
+      "scriptId":"u3"},
+    "67f1a510a5484381b526e46e41fa81a9":{
+      "scriptId":"u4"},
+    "decefaaefa1a42f3a647df99e2ad6aa8":{
+      "scriptId":"u5"}}});

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"feilmelding_er__1.html",
-  "generationDate":new Date(1398860909989.67),
+  "generationDate":new Date(1400747818794.45),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -135,7 +135,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/insentivside/u19.png"}},
+            "normal~":"images/tilgang_login_-_responsive_view/u5.png"}},
 {
           "id":"9163730bc00845fd86331ddd779c1318",
           "label":"",
@@ -292,7 +292,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/tilgang_login/u11.png"}},
+            "normal~":"images/tilgang_login_-_responsive_view/u11.png"}},
 {
           "id":"f88bead4cfd940f09203f138a6139733",
           "label":"",
@@ -801,7 +801,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/tilgang_login/u1.jpg"}}]}}},
+              "normal~":"images/tilgang_login_-_responsive_view/u1.jpg"}}]}}},
   "objectPaths":{
     "3b66713c9cb746faaea7152a3f199e3b":{
       "scriptId":"u0",

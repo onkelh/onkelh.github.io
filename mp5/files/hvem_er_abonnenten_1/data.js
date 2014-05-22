@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"hvem_er_abonnenten_1.html",
-  "generationDate":new Date(1398860920122.85),
+  "generationDate":new Date(1400747828855.96),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -135,7 +135,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/insentivside/u19.png"}},
+            "normal~":"images/tilgang_login_-_responsive_view/u5.png"}},
 {
           "id":"db3c968df9b9485e87b4bb0480dcde3c",
           "label":"",
@@ -188,7 +188,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/tilgang_login/u11.png"}},
+            "normal~":"images/tilgang_login_-_responsive_view/u11.png"}},
 {
           "id":"ce841c68e270422fbe05b834ba782bd4",
           "label":"",
@@ -333,7 +333,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/tilgang_login/u11.png"}},
+            "normal~":"images/tilgang_login_-_responsive_view/u11.png"}},
 {
           "id":"79881308ca534806a631a3f0f30b179a",
           "label":"",
@@ -421,7 +421,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/tilgang_login/u11.png"}},
+            "normal~":"images/tilgang_login_-_responsive_view/u11.png"}},
 {
           "id":"64da8295c22a48e0a7111fa8aa3265b7",
           "label":"",
@@ -595,7 +595,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/tilgang_login/u1.jpg"}}]}}},
+              "normal~":"images/tilgang_login_-_responsive_view/u1.jpg"}}]}}},
   "objectPaths":{
     "3b66713c9cb746faaea7152a3f199e3b":{
       "scriptId":"u0",

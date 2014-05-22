@@ -1,10 +1,10 @@
 ﻿$axure.loadCurrentPage({
   "url":"tilgang_login_8.html",
-  "generationDate":new Date(1398860919214.98),
+  "generationDate":new Date(1400747828502.98),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
-    "packageId":"7b02fbb26a3c4518b46aa32b2e716423",
+    "packageId":"a28d3d1b75cb4785ba5d576cd4d8211e",
     "type":"Axure:Page",
     "name":"tilgang/login",
     "notes":{
@@ -94,7 +94,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/tilgang_login/u3.png"}},
+            "normal~":"images/tilgang_login_-_responsive_view/u3.png"}},
 {
           "id":"8b1c9cc57d4948ce85e084b1a9e31521",
           "label":"",
@@ -131,7 +131,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/insentivside/u19.png"}},
+            "normal~":"images/tilgang_login_-_responsive_view/u5.png"}},
 {
           "id":"437cdd137b5c45948a60e19fc159274d",
           "label":"",
@@ -180,7 +180,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/tilgang_login/u7.png"}},
+            "normal~":"images/tilgang_login_-_responsive_view/u7.png"}},
 {
           "id":"854e67555f174024b5510b32791651a1",
           "label":"",
@@ -280,7 +280,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/tilgang_login/u11.png"}},
+            "normal~":"images/tilgang_login_-_responsive_view/u11.png"}},
 {
           "id":"0cf9c0c83c024f72aa7bb80a88740d23",
           "label":"",
@@ -333,7 +333,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/tilgang_login/u11.png"}},
+            "normal~":"images/tilgang_login_-_responsive_view/u11.png"}},
 {
           "id":"b029d08cbe344968a9bcb0c723ecfa22",
           "label":"",
@@ -355,7 +355,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/tilgang_login/u15_line.png"}},
+            "line~":"images/tilgang_login_-_responsive_view/u15_line.png"}},
 {
           "id":"ce841c68e270422fbe05b834ba782bd4",
           "label":"",
@@ -412,7 +412,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/tilgang_login/u16.png"}},
+            "normal~":"images/tilgang_login_-_responsive_view/u16.png"}},
 {
           "id":"f4feba3b069f49ba8c9c08096e7180e1",
           "label":"",
@@ -469,7 +469,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/tilgang_login/u18.png"}},
+            "normal~":"images/tilgang_login_-_responsive_view/u18.png"}},
 {
           "id":"d904d45d71284b6285c290dc68cc70e6",
           "label":"",
@@ -508,7 +508,7 @@
           "images":{
             "normal~":"resources/images/transparent.gif"}},
 {
-          "id":"8b25193cde794346ba851b5cd99b7bc6",
+          "id":"bc228d53241c4a69a5d40de7739e2bf3",
           "label":"",
           "type":"imageMapRegion",
           "styleType":"imageMapRegion",
@@ -533,7 +533,7 @@
                       "description":"Open opprett bruker in Current Window",
                       "target":{
                         "targetType":"page",
-                        "url":"opprett_bruker_8.html",
+                        "url":"opprett_bruker_9.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true}]}},
@@ -596,7 +596,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/tilgang_login/u1.jpg"}}]}}},
+              "normal~":"images/tilgang_login_-_responsive_view/u1.jpg"}}]}}},
   "objectPaths":{
     "3b66713c9cb746faaea7152a3f199e3b":{
       "scriptId":"u0",
@@ -642,5 +642,5 @@
       "scriptId":"u20"},
     "3c692c53f9d742b38e41a3867f9713f2":{
       "scriptId":"u21"},
-    "8b25193cde794346ba851b5cd99b7bc6":{
+    "bc228d53241c4a69a5d40de7739e2bf3":{
       "scriptId":"u22"}}});

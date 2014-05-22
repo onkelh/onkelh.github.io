@@ -3,7 +3,7 @@
   background-image:none;
   position:static;
   left:auto;
-  width:753px;
+  width:1270px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -118,7 +118,7 @@
 #u10 {
   position:absolute;
   left:20px;
-  top:3px;
+  top:12px;
   width:500px;
   word-wrap:break-word;
 }
@@ -279,4 +279,28 @@
   height:60px;
   overflow:hidden;
   background-image:url('../../resources/images/transparent.gif');
+}
+#u23 {
+  position:absolute;
+  left:730px;
+  top:210px;
+  width:540px;
+  height:40px;
+  font-size:15px;
+  color:#FF0000;
+  text-align:left;
+}
+#u23_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:540px;
+  height:40px;
+}
+#u24 {
+  position:absolute;
+  left:20px;
+  top:3px;
+  width:500px;
+  word-wrap:break-word;
 }

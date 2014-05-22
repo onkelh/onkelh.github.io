@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"feilmeldinger.html",
-  "generationDate":new Date(1398860909220.06),
+  "generationDate":new Date(1400747817958.02),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -131,7 +131,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/insentivside/u19.png"}},
+            "normal~":"images/tilgang_login_-_responsive_view/u5.png"}},
 {
           "id":"437cdd137b5c45948a60e19fc159274d",
           "label":"",
@@ -180,7 +180,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/tilgang_login/u7.png"}},
+            "normal~":"images/tilgang_login_-_responsive_view/u7.png"}},
 {
           "id":"854e67555f174024b5510b32791651a1",
           "label":"",
@@ -280,7 +280,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/tilgang_login/u11.png"}},
+            "normal~":"images/tilgang_login_-_responsive_view/u11.png"}},
 {
           "id":"0cf9c0c83c024f72aa7bb80a88740d23",
           "label":"",
@@ -333,7 +333,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/tilgang_login/u11.png"}},
+            "normal~":"images/tilgang_login_-_responsive_view/u11.png"}},
 {
           "id":"b029d08cbe344968a9bcb0c723ecfa22",
           "label":"",
@@ -412,7 +412,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/tilgang_login/u16.png"}},
+            "normal~":"images/tilgang_login_-_responsive_view/u16.png"}},
 {
           "id":"f4feba3b069f49ba8c9c08096e7180e1",
           "label":"",
@@ -469,7 +469,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/tilgang_login/u18.png"}},
+            "normal~":"images/tilgang_login_-_responsive_view/u18.png"}},
 {
           "id":"d904d45d71284b6285c290dc68cc70e6",
           "label":"",
@@ -883,7 +883,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/tilgang_login/u1.jpg"}}]}}},
+              "normal~":"images/tilgang_login_-_responsive_view/u1.jpg"}}]}}},
   "objectPaths":{
     "3b66713c9cb746faaea7152a3f199e3b":{
       "scriptId":"u0",
