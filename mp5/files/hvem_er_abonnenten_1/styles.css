@@ -1,0 +1,279 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:static;
+  left:auto;
+  width:753px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u1 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:753px;
+  height:108px;
+}
+#u1_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:753px;
+  height:108px;
+}
+#u2 {
+  position:absolute;
+  left:2px;
+  top:46px;
+  width:749px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u3 {
+  position:absolute;
+  left:81px;
+  top:150px;
+  width:580px;
+  height:560px;
+}
+#u3_img {
+  position:absolute;
+  left:-5px;
+  top:-4px;
+  width:590px;
+  height:570px;
+}
+#u4 {
+  position:absolute;
+  left:2px;
+  top:272px;
+  width:576px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u5 {
+  position:absolute;
+  left:120px;
+  top:150px;
+  width:490px;
+  height:60px;
+  font-family:'GuardianSansWeb-Black', 'Guardian Sans Web Black';
+  font-weight:900;
+  font-size:34px;
+}
+#u5_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:490px;
+  height:60px;
+}
+#u6 {
+  position:absolute;
+  left:2px;
+  top:7px;
+  width:486px;
+  word-wrap:break-word;
+}
+#u7 {
+  position:absolute;
+  left:245px;
+  top:260px;
+  width:240px;
+  height:40px;
+  font-size:15px;
+  color:#999999;
+  text-align:left;
+}
+#u7_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:240px;
+  height:40px;
+}
+#u8 {
+  position:absolute;
+  left:2px;
+  top:12px;
+  width:236px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u9 {
+  position:absolute;
+  left:245px;
+  top:480px;
+  width:240px;
+  height:40px;
+  font-family:'OpenSans-CondensedBold', 'Open Sans Condensed Bold', 'Open Sans Condensed';
+  font-weight:700;
+  font-size:19px;
+  color:#FFFFFF;
+}
+#u9_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:240px;
+  height:40px;
+}
+#u10 {
+  position:absolute;
+  left:2px;
+  top:7px;
+  width:236px;
+  word-wrap:break-word;
+}
+#u11 {
+  position:absolute;
+  left:246px;
+  top:241px;
+  width:239px;
+  height:17px;
+  font-size:15px;
+}
+#u11_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:239px;
+  height:17px;
+}
+#u12 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:239px;
+  word-wrap:break-word;
+}
+#u13 {
+  position:absolute;
+  left:245px;
+  top:339px;
+  width:240px;
+  height:40px;
+  font-size:15px;
+  color:#999999;
+  text-align:left;
+}
+#u13_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:240px;
+  height:40px;
+}
+#u14 {
+  position:absolute;
+  left:2px;
+  top:12px;
+  width:236px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u15 {
+  position:absolute;
+  left:246px;
+  top:320px;
+  width:239px;
+  height:17px;
+  font-size:15px;
+}
+#u15_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:239px;
+  height:17px;
+}
+#u16 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:239px;
+  word-wrap:break-word;
+}
+#u17 {
+  position:absolute;
+  left:245px;
+  top:419px;
+  width:240px;
+  height:40px;
+  font-size:15px;
+  color:#999999;
+  text-align:left;
+}
+#u17_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:240px;
+  height:40px;
+}
+#u18 {
+  position:absolute;
+  left:2px;
+  top:12px;
+  width:236px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u19 {
+  position:absolute;
+  left:246px;
+  top:400px;
+  width:239px;
+  height:17px;
+  font-size:15px;
+}
+#u19_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:239px;
+  height:17px;
+}
+#u20 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:239px;
+  word-wrap:break-word;
+}
+#u21 {
+  position:absolute;
+  left:100px;
+  top:551px;
+  width:540px;
+  height:130px;
+  font-size:15px;
+}
+#u21_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:540px;
+  height:130px;
+}
+#u22 {
+  position:absolute;
+  left:20px;
+  top:22px;
+  width:500px;
+  word-wrap:break-word;
+}
+#u23 {
+  position:absolute;
+  left:230px;
+  top:470px;
+  width:270px;
+  height:60px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}

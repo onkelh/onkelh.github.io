@@ -1,0 +1,2236 @@
+﻿$axure.loadDocument({
+  "configuration":{
+    "showPageNotes":true,
+    "showPageNoteNames":false,
+    "showAnnotations":true,
+    "linkStyle":"b",
+    "linkFlowsToPages":true,
+    "linkFlowsToPagesNewWindow":true,
+    "hideAddress":false,
+    "preventScroll":false,
+    "useLabels":false,
+    "enabledViewIds":[],
+    "loadFeedbackPlugin":false},
+  "sitemap":{
+    "rootNodes":[{
+        "pageName":"startside for prototypen",
+        "type":"Wireframe",
+        "url":"startside_for_prototypen.html"},
+{
+        "pageName":"MP5 - baseline (med feilmeldinger)",
+        "type":"Folder",
+        "url":"",
+        "children":[{
+            "pageName":"insentivside (MED tidsbegrensning - responsive view)",
+            "type":"Wireframe",
+            "url":"insentivside__med_tidsbegrensning_-_responsive_vie.html"},
+{
+            "pageName":"insentivside (UTEN tidsbegrenset - responsive view)",
+            "type":"Wireframe",
+            "url":"insentivside__uten_tidsbegrenset_-_responsive_view.html"},
+{
+            "pageName":"tilgang/login - responsive view",
+            "type":"Wireframe",
+            "url":"tilgang_login_-_responsive_view.html",
+            "children":[{
+                "pageName":"feilmeldinger",
+                "type":"Wireframe",
+                "url":"feilmeldinger.html"}]},
+{
+            "pageName":"opprett bruker",
+            "type":"Wireframe",
+            "url":"opprett_bruker.html",
+            "children":[{
+                "pageName":"feilmelding(er)",
+                "type":"Wireframe",
+                "url":"feilmelding_er_.html"}]},
+{
+            "pageName":"tast engangskode",
+            "type":"Wireframe",
+            "url":"tast_engangskode.html",
+            "children":[{
+                "pageName":"feilmelding(er)",
+                "type":"Wireframe",
+                "url":"feilmelding_er__1.html"}]},
+{
+            "pageName":"velg passord",
+            "type":"Wireframe",
+            "url":"velg_passord.html",
+            "children":[{
+                "pageName":"feilmelding(er)",
+                "type":"Wireframe",
+                "url":"feilmelding_er__2.html"}]},
+{
+            "pageName":"bruker opprettet",
+            "type":"Wireframe",
+            "url":"bruker_opprettet.html"},
+{
+            "pageName":"engangskjøpsiden",
+            "type":"Wireframe",
+            "url":"engangskj_psiden.html"},
+{
+            "pageName":"tast kjøpskode",
+            "type":"Wireframe",
+            "url":"tast_kj_pskode.html",
+            "children":[{
+                "pageName":"feilmelding(er)",
+                "type":"Wireframe",
+                "url":"feilmelding_er__3.html"}]},
+{
+            "pageName":"velkommen",
+            "type":"Wireframe",
+            "url":"velkommen.html"},
+{
+            "pageName":"dit du ville",
+            "type":"Wireframe",
+            "url":"dit_du_ville.html"},
+{
+            "pageName":"feilkortene",
+            "type":"Folder",
+            "url":"",
+            "children":[{
+                "pageName":"feilkort: systemfeil",
+                "type":"Wireframe",
+                "url":"feilkort__systemfeil.html"},
+{
+                "pageName":"feilkort: gratisløp for ANDRE gang",
+                "type":"Wireframe",
+                "url":"feilkort__gratisl_p_for_andre_gang.html"},
+{
+                "pageName":"feilkort: familieløp for ANDRE gang",
+                "type":"Wireframe",
+                "url":"feilkort__familiel_p_for_andre_gang.html"},
+{
+                "pageName":"feilkort: enkel registrering for ANDRE gang",
+                "type":"Wireframe",
+                "url":"feilkort__enkel_registrering_for_andre_gang.html"}]}]},
+{
+        "pageName":"MP5 - innlogget",
+        "type":"Folder",
+        "url":"",
+        "children":[{
+            "pageName":"kjøpsløp (har aID fra før)",
+            "type":"Folder",
+            "url":"",
+            "children":[{
+                "pageName":"insentivside",
+                "type":"Wireframe",
+                "url":"insentivside.html"},
+{
+                "pageName":"engangskjøpsiden",
+                "type":"Wireframe",
+                "url":"engangskj_psiden_1.html"},
+{
+                "pageName":"tast kjøpskode",
+                "type":"Wireframe",
+                "url":"tast_kj_pskode_1.html"},
+{
+                "pageName":"velkommen",
+                "type":"Wireframe",
+                "url":"velkommen_1.html"},
+{
+                "pageName":"dit du ville",
+                "type":"Wireframe",
+                "url":"dit_du_ville_1.html"}]},
+{
+            "pageName":"abonnent (har ikke aID, er i Infosoft)",
+            "type":"Folder",
+            "url":"",
+            "children":[{
+                "pageName":"insentivside",
+                "type":"Wireframe",
+                "url":"insentivside_1.html"},
+{
+                "pageName":"tilgang/login",
+                "type":"Wireframe",
+                "url":"tilgang_login.html"},
+{
+                "pageName":"opprett bruker",
+                "type":"Wireframe",
+                "url":"opprett_bruker_1.html"},
+{
+                "pageName":"tast engangskode",
+                "type":"Wireframe",
+                "url":"tast_engangskode_1.html"},
+{
+                "pageName":"velg passord",
+                "type":"Wireframe",
+                "url":"velg_passord_1.html"},
+{
+                "pageName":"bruker opprettet",
+                "type":"Wireframe",
+                "url":"bruker_opprettet_1.html"},
+{
+                "pageName":"velkommen",
+                "type":"Wireframe",
+                "url":"velkommen_2.html"},
+{
+                "pageName":"dit du ville",
+                "type":"Wireframe",
+                "url":"dit_du_ville_2.html"}]},
+{
+            "pageName":"abonnent (har ikke aID, ikke i Infosoft)",
+            "type":"Folder",
+            "url":"",
+            "children":[{
+                "pageName":"insentivside",
+                "type":"Wireframe",
+                "url":"insentivside_2.html"},
+{
+                "pageName":"tilgang/login",
+                "type":"Wireframe",
+                "url":"tilgang_login_1.html"},
+{
+                "pageName":"opprett bruker",
+                "type":"Wireframe",
+                "url":"opprett_bruker_2.html"},
+{
+                "pageName":"tast engangskode",
+                "type":"Wireframe",
+                "url":"tast_engangskode_2.html"},
+{
+                "pageName":"velg passord",
+                "type":"Wireframe",
+                "url":"velg_passord_2.html"},
+{
+                "pageName":"bruker opprettet",
+                "type":"Wireframe",
+                "url":"bruker_opprettet_2.html"},
+{
+                "pageName":"bekreft at du er abonnent",
+                "type":"Wireframe",
+                "url":"bekreft_at_du_er_abonnent.html"},
+{
+                "pageName":"velkommen",
+                "type":"Wireframe",
+                "url":"velkommen_3.html"},
+{
+                "pageName":"dit du ville",
+                "type":"Wireframe",
+                "url":"dit_du_ville_3.html"}]},
+{
+            "pageName":"gratisløpet (har ikke aID fra før)",
+            "type":"Folder",
+            "url":"",
+            "children":[{
+                "pageName":"insentivside",
+                "type":"Wireframe",
+                "url":"insentivside_3.html"},
+{
+                "pageName":"tilgang/login",
+                "type":"Wireframe",
+                "url":"tilgang_login_2.html"},
+{
+                "pageName":"opprett bruker",
+                "type":"Wireframe",
+                "url":"opprett_bruker_3.html"},
+{
+                "pageName":"tast engangskode",
+                "type":"Wireframe",
+                "url":"tast_engangskode_3.html"},
+{
+                "pageName":"velg passord",
+                "type":"Wireframe",
+                "url":"velg_passord_3.html"},
+{
+                "pageName":"bruker opprettet",
+                "type":"Wireframe",
+                "url":"bruker_opprettet_3.html"},
+{
+                "pageName":"velkommen",
+                "type":"Wireframe",
+                "url":"velkommen_4.html"},
+{
+                "pageName":"dit du ville",
+                "type":"Wireframe",
+                "url":"dit_du_ville_4.html"}]},
+{
+            "pageName":"familieløpet (har ikke aID fra før)",
+            "type":"Folder",
+            "url":"",
+            "children":[{
+                "pageName":"insentivside",
+                "type":"Wireframe",
+                "url":"insentivside_4.html"},
+{
+                "pageName":"tilgang/login",
+                "type":"Wireframe",
+                "url":"tilgang_login_3.html"},
+{
+                "pageName":"opprett bruker",
+                "type":"Wireframe",
+                "url":"opprett_bruker_4.html"},
+{
+                "pageName":"tast engangskode",
+                "type":"Wireframe",
+                "url":"tast_engangskode_4.html"},
+{
+                "pageName":"velg passord",
+                "type":"Wireframe",
+                "url":"velg_passord_4.html"},
+{
+                "pageName":"bruker opprettet",
+                "type":"Wireframe",
+                "url":"bruker_opprettet_4.html"},
+{
+                "pageName":"hvem er abonnenten",
+                "type":"Wireframe",
+                "url":"hvem_er_abonnenten.html"},
+{
+                "pageName":"velkommen",
+                "type":"Wireframe",
+                "url":"velkommen_5.html"},
+{
+                "pageName":"dit du ville",
+                "type":"Wireframe",
+                "url":"dit_du_ville_5.html"}]}]},
+{
+        "pageName":"MP5 - utlogget",
+        "type":"Folder",
+        "url":"",
+        "children":[{
+            "pageName":"kjøpsløp (har ikke aid fra før)",
+            "type":"Folder",
+            "url":"",
+            "children":[{
+                "pageName":"insentivside",
+                "type":"Wireframe",
+                "url":"insentivside_5.html"},
+{
+                "pageName":"engangskjøpsiden",
+                "type":"Wireframe",
+                "url":"engangskj_psiden_2.html"},
+{
+                "pageName":"tilgang/login",
+                "type":"Wireframe",
+                "url":"tilgang_login_4.html"},
+{
+                "pageName":"opprett bruker",
+                "type":"Wireframe",
+                "url":"opprett_bruker_5.html"},
+{
+                "pageName":"tast engangskode",
+                "type":"Wireframe",
+                "url":"tast_engangskode_5.html"},
+{
+                "pageName":"velg passord",
+                "type":"Wireframe",
+                "url":"velg_passord_5.html"},
+{
+                "pageName":"bruker opprettet",
+                "type":"Wireframe",
+                "url":"bruker_opprettet_5.html"},
+{
+                "pageName":"tast kjøpskode",
+                "type":"Wireframe",
+                "url":"tast_kj_pskode_2.html"},
+{
+                "pageName":"velkommen",
+                "type":"Wireframe",
+                "url":"velkommen_6.html"},
+{
+                "pageName":"dit du ville",
+                "type":"Wireframe",
+                "url":"dit_du_ville_6.html"}]},
+{
+            "pageName":"abonnent (har ikke aID, er i Infosoft)",
+            "type":"Folder",
+            "url":"",
+            "children":[{
+                "pageName":"insentivside",
+                "type":"Wireframe",
+                "url":"insentivside_6.html"},
+{
+                "pageName":"tilgang/login",
+                "type":"Wireframe",
+                "url":"tilgang_login_5.html"},
+{
+                "pageName":"opprett bruker",
+                "type":"Wireframe",
+                "url":"opprett_bruker_6.html"},
+{
+                "pageName":"tast engangskode",
+                "type":"Wireframe",
+                "url":"tast_engangskode_6.html"},
+{
+                "pageName":"velg passord",
+                "type":"Wireframe",
+                "url":"velg_passord_6.html"},
+{
+                "pageName":"bruker opprettet",
+                "type":"Wireframe",
+                "url":"bruker_opprettet_6.html"},
+{
+                "pageName":"velkommen",
+                "type":"Wireframe",
+                "url":"velkommen_7.html"},
+{
+                "pageName":"dit du ville",
+                "type":"Wireframe",
+                "url":"dit_du_ville_7.html"}]},
+{
+            "pageName":"abonnent (har ikke aID, ikke i Infosoft)",
+            "type":"Folder",
+            "url":"",
+            "children":[{
+                "pageName":"insentivside",
+                "type":"Wireframe",
+                "url":"insentivside_7.html"},
+{
+                "pageName":"tilgang/login",
+                "type":"Wireframe",
+                "url":"tilgang_login_6.html"},
+{
+                "pageName":"opprett bruker",
+                "type":"Wireframe",
+                "url":"opprett_bruker_7.html"},
+{
+                "pageName":"tast engangskode",
+                "type":"Wireframe",
+                "url":"tast_engangskode_7.html"},
+{
+                "pageName":"velg passord",
+                "type":"Wireframe",
+                "url":"velg_passord_7.html"},
+{
+                "pageName":"bruker opprettet",
+                "type":"Wireframe",
+                "url":"bruker_opprettet_7.html"},
+{
+                "pageName":"bekreft at du er abonnent",
+                "type":"Wireframe",
+                "url":"bekreft_at_du_er_abonnent_1.html"},
+{
+                "pageName":"velkommen",
+                "type":"Wireframe",
+                "url":"velkommen_8.html"},
+{
+                "pageName":"dit du ville",
+                "type":"Wireframe",
+                "url":"dit_du_ville_8.html"}]},
+{
+            "pageName":"gratisløpet (har ikke aID fra før)",
+            "type":"Folder",
+            "url":"",
+            "children":[{
+                "pageName":"insentivside",
+                "type":"Wireframe",
+                "url":"insentivside_8.html"},
+{
+                "pageName":"tilgang/login",
+                "type":"Wireframe",
+                "url":"tilgang_login_7.html"},
+{
+                "pageName":"opprett bruker",
+                "type":"Wireframe",
+                "url":"opprett_bruker_8.html"},
+{
+                "pageName":"tast engangskode",
+                "type":"Wireframe",
+                "url":"tast_engangskode_8.html"},
+{
+                "pageName":"velg passord",
+                "type":"Wireframe",
+                "url":"velg_passord_8.html"},
+{
+                "pageName":"bruker opprettet",
+                "type":"Wireframe",
+                "url":"bruker_opprettet_8.html"},
+{
+                "pageName":"velkommen",
+                "type":"Wireframe",
+                "url":"velkommen_9.html"},
+{
+                "pageName":"dit du ville",
+                "type":"Wireframe",
+                "url":"dit_du_ville_9.html"}]},
+{
+            "pageName":"familieløpet (har ikke aID fra før)",
+            "type":"Folder",
+            "url":"",
+            "children":[{
+                "pageName":"insentivside",
+                "type":"Wireframe",
+                "url":"insentivside_9.html"},
+{
+                "pageName":"tilgang/login",
+                "type":"Wireframe",
+                "url":"tilgang_login_8.html"},
+{
+                "pageName":"opprett bruker",
+                "type":"Wireframe",
+                "url":"opprett_bruker_9.html"},
+{
+                "pageName":"tast engangskode",
+                "type":"Wireframe",
+                "url":"tast_engangskode_9.html"},
+{
+                "pageName":"velg passord",
+                "type":"Wireframe",
+                "url":"velg_passord_9.html"},
+{
+                "pageName":"bruker opprettet",
+                "type":"Wireframe",
+                "url":"bruker_opprettet_9.html"},
+{
+                "pageName":"hvem er abonnenten",
+                "type":"Wireframe",
+                "url":"hvem_er_abonnenten_1.html"},
+{
+                "pageName":"velkommen",
+                "type":"Wireframe",
+                "url":"velkommen_10.html"},
+{
+                "pageName":"dit du ville",
+                "type":"Wireframe",
+                "url":"dit_du_ville_10.html"}]}]}]},
+  "globalVariables":{
+    "onloadvariable":""},
+  "defaultAdaptiveView":{
+    "name":"",
+    "size":{
+      "width":0,
+      "height":0},
+    "condition":"<="},
+  "adaptiveViews":[],
+  "stylesheet":{
+    "defaultStyles":{
+      "buttonShape":{
+        "id":"1123c6b8388e417aad29fe8863261434",
+        "fontName":"'ArialMT', 'Arial'",
+        "fontSize":"13px",
+        "fontWeight":"400",
+        "fontStyle":"normal",
+        "underline":false,
+        "horizontalAlignment":"center",
+        "verticalAlignment":"middle",
+        "foreGroundFill":{
+          "fillType":"solid",
+          "color":0xFF333333,
+          "opacity":1},
+        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+        "lineSpacing":"0px",
+        "stateStyles":{
+},
+        "opacity":"1",
+        "fill":{
+          "fillType":"solid",
+          "color":0xFFFFFFFF},
+        "textShadow":{
+          "on":false,
+          "offsetX":1,
+          "offsetY":1,
+          "blurRadius":5,
+          "color":{
+            "r":0,
+            "g":0,
+            "b":0,
+            "a":0.647058844566345}},
+        "paddingTop":"2",
+        "paddingBottom":"2",
+        "location":{
+          "x":0,
+          "y":0},
+        "size":{
+          "width":0,
+          "height":0},
+        "visible":true,
+        "limbo":false,
+        "rotation":"0",
+        "textRotation":"0",
+        "borderWidth":"1",
+        "borderFill":{
+          "fillType":"solid",
+          "color":0xFF797979},
+        "linePattern":"solid",
+        "cornerRadiusTopLeft":"0",
+        "outerShadow":{
+          "on":false,
+          "offsetX":5,
+          "offsetY":5,
+          "blurRadius":5,
+          "color":{
+            "r":0,
+            "g":0,
+            "b":0,
+            "a":0.34901961684227}}},
+      "paragraph":{
+        "id":"02ef6d7552c649cbbf9ff69ac53add54",
+        "fontName":"'ArialMT', 'Arial'",
+        "fontSize":"13px",
+        "fontWeight":"400",
+        "fontStyle":"normal",
+        "underline":false,
+        "horizontalAlignment":"left",
+        "verticalAlignment":"top",
+        "foreGroundFill":{
+          "fillType":"solid",
+          "color":0xFF333333,
+          "opacity":1},
+        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+        "lineSpacing":"0px",
+        "stateStyles":{
+},
+        "opacity":"1",
+        "fill":{
+          "fillType":"solid",
+          "color":0xFFFFFF},
+        "textShadow":{
+          "on":false,
+          "offsetX":1,
+          "offsetY":1,
+          "blurRadius":5,
+          "color":{
+            "r":0,
+            "g":0,
+            "b":0,
+            "a":0.647058844566345}},
+        "paddingTop":"0",
+        "paddingBottom":"0",
+        "location":{
+          "x":0,
+          "y":0},
+        "size":{
+          "width":0,
+          "height":0},
+        "visible":true,
+        "limbo":false,
+        "rotation":"0",
+        "textRotation":"0",
+        "borderWidth":"-1",
+        "borderFill":{
+          "fillType":"solid",
+          "color":0xFFFFFF},
+        "linePattern":"solid",
+        "cornerRadiusTopLeft":"0",
+        "outerShadow":{
+          "on":false,
+          "offsetX":5,
+          "offsetY":5,
+          "blurRadius":5,
+          "color":{
+            "r":0,
+            "g":0,
+            "b":0,
+            "a":0.34901961684227}}},
+      "h1":{
+        "id":"563ab16f74844302a8eb7fcf9e0ccbb6",
+        "fontName":"'Arial-BoldMT', 'Arial Bold', 'Arial'",
+        "fontSize":"32px",
+        "fontWeight":"700",
+        "fontStyle":"normal",
+        "underline":false,
+        "horizontalAlignment":"left",
+        "verticalAlignment":"top",
+        "foreGroundFill":{
+          "fillType":"solid",
+          "color":0xFF333333,
+          "opacity":1},
+        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+        "lineSpacing":"0px",
+        "stateStyles":{
+},
+        "opacity":"1",
+        "fill":{
+          "fillType":"solid",
+          "color":0xFFFFFF},
+        "textShadow":{
+          "on":false,
+          "offsetX":1,
+          "offsetY":1,
+          "blurRadius":5,
+          "color":{
+            "r":0,
+            "g":0,
+            "b":0,
+            "a":0.647058844566345}},
+        "paddingTop":"0",
+        "paddingBottom":"0",
+        "location":{
+          "x":0,
+          "y":0},
+        "size":{
+          "width":0,
+          "height":0},
+        "visible":true,
+        "limbo":false,
+        "rotation":"0",
+        "textRotation":"0",
+        "borderWidth":"-1",
+        "borderFill":{
+          "fillType":"solid",
+          "color":0xFFFFFF},
+        "linePattern":"solid",
+        "cornerRadiusTopLeft":"0",
+        "outerShadow":{
+          "on":false,
+          "offsetX":5,
+          "offsetY":5,
+          "blurRadius":5,
+          "color":{
+            "r":0,
+            "g":0,
+            "b":0,
+            "a":0.34901961684227}}},
+      "h2":{
+        "id":"4e0b9835a65f4242bef13ebbfbdac35a",
+        "fontName":"'Arial-BoldMT', 'Arial Bold', 'Arial'",
+        "fontSize":"24px",
+        "fontWeight":"700",
+        "fontStyle":"normal",
+        "underline":false,
+        "horizontalAlignment":"left",
+        "verticalAlignment":"top",
+        "foreGroundFill":{
+          "fillType":"solid",
+          "color":0xFF333333,
+          "opacity":1},
+        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+        "lineSpacing":"0px",
+        "stateStyles":{
+},
+        "opacity":"1",
+        "fill":{
+          "fillType":"solid",
+          "color":0xFFFFFF},
+        "textShadow":{
+          "on":false,
+          "offsetX":1,
+          "offsetY":1,
+          "blurRadius":5,
+          "color":{
+            "r":0,
+            "g":0,
+            "b":0,
+            "a":0.647058844566345}},
+        "paddingTop":"0",
+        "paddingBottom":"0",
+        "location":{
+          "x":0,
+          "y":0},
+        "size":{
+          "width":0,
+          "height":0},
+        "visible":true,
+        "limbo":false,
+        "rotation":"0",
+        "textRotation":"0",
+        "borderWidth":"-1",
+        "borderFill":{
+          "fillType":"solid",
+          "color":0xFFFFFF},
+        "linePattern":"solid",
+        "cornerRadiusTopLeft":"0",
+        "outerShadow":{
+          "on":false,
+          "offsetX":5,
+          "offsetY":5,
+          "blurRadius":5,
+          "color":{
+            "r":0,
+            "g":0,
+            "b":0,
+            "a":0.34901961684227}}},
+      "h3":{
+        "id":"45805cefc2f943cbb237482d22b0eb20",
+        "fontName":"'Arial-BoldMT', 'Arial Bold', 'Arial'",
+        "fontSize":"18px",
+        "fontWeight":"700",
+        "fontStyle":"normal",
+        "underline":false,
+        "horizontalAlignment":"left",
+        "verticalAlignment":"top",
+        "foreGroundFill":{
+          "fillType":"solid",
+          "color":0xFF333333,
+          "opacity":1},
+        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+        "lineSpacing":"0px",
+        "stateStyles":{
+},
+        "opacity":"1",
+        "fill":{
+          "fillType":"solid",
+          "color":0xFFFFFF},
+        "textShadow":{
+          "on":false,
+          "offsetX":1,
+          "offsetY":1,
+          "blurRadius":5,
+          "color":{
+            "r":0,
+            "g":0,
+            "b":0,
+            "a":0.647058844566345}},
+        "paddingTop":"0",
+        "paddingBottom":"0",
+        "location":{
+          "x":0,
+          "y":0},
+        "size":{
+          "width":0,
+          "height":0},
+        "visible":true,
+        "limbo":false,
+        "rotation":"0",
+        "textRotation":"0",
+        "borderWidth":"-1",
+        "borderFill":{
+          "fillType":"solid",
+          "color":0xFFFFFF},
+        "linePattern":"solid",
+        "cornerRadiusTopLeft":"0",
+        "outerShadow":{
+          "on":false,
+          "offsetX":5,
+          "offsetY":5,
+          "blurRadius":5,
+          "color":{
+            "r":0,
+            "g":0,
+            "b":0,
+            "a":0.34901961684227}}},
+      "h4":{
+        "id":"1e0f1c7ebfde45888530482d16884bbc",
+        "fontName":"'Arial-BoldMT', 'Arial Bold', 'Arial'",
+        "fontSize":"14px",
+        "fontWeight":"700",
+        "fontStyle":"normal",
+        "underline":false,
+        "horizontalAlignment":"left",
+        "verticalAlignment":"top",
+        "foreGroundFill":{
+          "fillType":"solid",
+          "color":0xFF333333,
+          "opacity":1},
+        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+        "lineSpacing":"0px",
+        "stateStyles":{
+},
+        "opacity":"1",
+        "fill":{
+          "fillType":"solid",
+          "color":0xFFFFFF},
+        "textShadow":{
+          "on":false,
+          "offsetX":1,
+          "offsetY":1,
+          "blurRadius":5,
+          "color":{
+            "r":0,
+            "g":0,
+            "b":0,
+            "a":0.647058844566345}},
+        "paddingTop":"0",
+        "paddingBottom":"0",
+        "location":{
+          "x":0,
+          "y":0},
+        "size":{
+          "width":0,
+          "height":0},
+        "visible":true,
+        "limbo":false,
+        "rotation":"0",
+        "textRotation":"0",
+        "borderWidth":"-1",
+        "borderFill":{
+          "fillType":"solid",
+          "color":0xFFFFFF},
+        "linePattern":"solid",
+        "cornerRadiusTopLeft":"0",
+        "outerShadow":{
+          "on":false,
+          "offsetX":5,
+          "offsetY":5,
+          "blurRadius":5,
+          "color":{
+            "r":0,
+            "g":0,
+            "b":0,
+            "a":0.34901961684227}}},
+      "h5":{
+        "id":"8a34ee4486a1426eacf42d4505af565a",
+        "fontName":"'Arial-BoldMT', 'Arial Bold', 'Arial'",
+        "fontSize":"13px",
+        "fontWeight":"700",
+        "fontStyle":"normal",
+        "underline":false,
+        "horizontalAlignment":"left",
+        "verticalAlignment":"top",
+        "foreGroundFill":{
+          "fillType":"solid",
+          "color":0xFF333333,
+          "opacity":1},
+        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+        "lineSpacing":"0px",
+        "stateStyles":{
+},
+        "opacity":"1",
+        "fill":{
+          "fillType":"solid",
+          "color":0xFFFFFF},
+        "textShadow":{
+          "on":false,
+          "offsetX":1,
+          "offsetY":1,
+          "blurRadius":5,
+          "color":{
+            "r":0,
+            "g":0,
+            "b":0,
+            "a":0.647058844566345}},
+        "paddingTop":"0",
+        "paddingBottom":"0",
+        "location":{
+          "x":0,
+          "y":0},
+        "size":{
+          "width":0,
+          "height":0},
+        "visible":true,
+        "limbo":false,
+        "rotation":"0",
+        "textRotation":"0",
+        "borderWidth":"-1",
+        "borderFill":{
+          "fillType":"solid",
+          "color":0xFFFFFF},
+        "linePattern":"solid",
+        "cornerRadiusTopLeft":"0",
+        "outerShadow":{
+          "on":false,
+          "offsetX":5,
+          "offsetY":5,
+          "blurRadius":5,
+          "color":{
+            "r":0,
+            "g":0,
+            "b":0,
+            "a":0.34901961684227}}},
+      "h6":{
+        "id":"805291ad18134bcc90951b3a7eda5399",
+        "fontName":"'Arial-BoldMT', 'Arial Bold', 'Arial'",
+        "fontSize":"10px",
+        "fontWeight":"700",
+        "fontStyle":"normal",
+        "underline":false,
+        "horizontalAlignment":"left",
+        "verticalAlignment":"top",
+        "foreGroundFill":{
+          "fillType":"solid",
+          "color":0xFF333333,
+          "opacity":1},
+        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+        "lineSpacing":"0px",
+        "stateStyles":{
+},
+        "opacity":"1",
+        "fill":{
+          "fillType":"solid",
+          "color":0xFFFFFF},
+        "textShadow":{
+          "on":false,
+          "offsetX":1,
+          "offsetY":1,
+          "blurRadius":5,
+          "color":{
+            "r":0,
+            "g":0,
+            "b":0,
+            "a":0.647058844566345}},
+        "paddingTop":"0",
+        "paddingBottom":"0",
+        "location":{
+          "x":0,
+          "y":0},
+        "size":{
+          "width":0,
+          "height":0},
+        "visible":true,
+        "limbo":false,
+        "rotation":"0",
+        "textRotation":"0",
+        "borderWidth":"-1",
+        "borderFill":{
+          "fillType":"solid",
+          "color":0xFFFFFF},
+        "linePattern":"solid",
+        "cornerRadiusTopLeft":"0",
+        "outerShadow":{
+          "on":false,
+          "offsetX":5,
+          "offsetY":5,
+          "blurRadius":5,
+          "color":{
+            "r":0,
+            "g":0,
+            "b":0,
+            "a":0.34901961684227}}},
+      "imageBox":{
+        "id":"501629b85a724869929f644c3380de59",
+        "fontName":"'ArialMT', 'Arial'",
+        "fontSize":"13px",
+        "fontWeight":"400",
+        "fontStyle":"normal",
+        "underline":false,
+        "horizontalAlignment":"center",
+        "verticalAlignment":"middle",
+        "foreGroundFill":{
+          "fillType":"solid",
+          "color":0xFF000000,
+          "opacity":1},
+        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+        "lineSpacing":"0px",
+        "stateStyles":{
+},
+        "opacity":"1",
+        "fill":{
+          "fillType":"solid",
+          "color":0xFFFFFFFF},
+        "textShadow":{
+          "on":false,
+          "offsetX":1,
+          "offsetY":1,
+          "blurRadius":5,
+          "color":{
+            "r":0,
+            "g":0,
+            "b":0,
+            "a":0.647058844566345}},
+        "paddingTop":"2",
+        "paddingBottom":"2",
+        "location":{
+          "x":0,
+          "y":0},
+        "size":{
+          "width":0,
+          "height":0},
+        "visible":true,
+        "limbo":false,
+        "rotation":"0",
+        "textRotation":"0",
+        "borderWidth":"-1",
+        "borderFill":{
+          "fillType":"solid",
+          "color":0xFF797979},
+        "linePattern":"solid",
+        "cornerRadiusTopLeft":"0",
+        "outerShadow":{
+          "on":false,
+          "offsetX":5,
+          "offsetY":5,
+          "blurRadius":5,
+          "color":{
+            "r":0,
+            "g":0,
+            "b":0,
+            "a":0.34901961684227}}},
+      "hyperlink":{
+        "id":"9ae0b43cdc0a4c719537d06b6697f5bf",
+        "foreGroundFill":{
+          "fillType":"solid",
+          "color":0xFF0000FF,
+          "opacity":1},
+        "location":{
+          "x":0,
+          "y":0},
+        "size":{
+          "width":0,
+          "height":0},
+        "visible":true,
+        "limbo":false},
+      "hyperlinkMouseOver":{
+        "id":"331e5b8c4dcd42d78a5e0c49baf90e2d",
+        "underline":true},
+      "hyperlinkMouseDown":{
+        "id":"68866b3e8707437c8e9dc577c2bf8667"},
+      "textBox":{
+        "id":"c4f97cca53ba474c9420505abf999254",
+        "fontName":"'ArialMT', 'Arial'",
+        "fontSize":"13px",
+        "fontWeight":"400",
+        "fontStyle":"normal",
+        "underline":false,
+        "horizontalAlignment":"left",
+        "verticalAlignment":"middle",
+        "foreGroundFill":{
+          "fillType":"solid",
+          "color":0xFF000000,
+          "opacity":1},
+        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+        "lineSpacing":"0px",
+        "stateStyles":{
+},
+        "opacity":"1",
+        "fill":{
+          "fillType":"solid",
+          "color":0xFFFFFFFF},
+        "textShadow":{
+          "on":false,
+          "offsetX":1,
+          "offsetY":1,
+          "blurRadius":5,
+          "color":{
+            "r":0,
+            "g":0,
+            "b":0,
+            "a":0.647058844566345}},
+        "paddingTop":"2",
+        "paddingBottom":"2",
+        "location":{
+          "x":0,
+          "y":0},
+        "size":{
+          "width":0,
+          "height":0},
+        "visible":true,
+        "limbo":false,
+        "rotation":"0",
+        "textRotation":"0",
+        "borderWidth":"1",
+        "borderFill":{
+          "fillType":"solid",
+          "color":0xFF797979},
+        "linePattern":"solid",
+        "cornerRadiusTopLeft":"0",
+        "outerShadow":{
+          "on":false,
+          "offsetX":5,
+          "offsetY":5,
+          "blurRadius":5,
+          "color":{
+            "r":0,
+            "g":0,
+            "b":0,
+            "a":0.34901961684227}}},
+      "textArea":{
+        "id":"b29bc70eb8b14d739924e66b90ea1a6b",
+        "fontName":"'ArialMT', 'Arial'",
+        "fontSize":"13px",
+        "fontWeight":"400",
+        "fontStyle":"normal",
+        "underline":false,
+        "horizontalAlignment":"left",
+        "verticalAlignment":"top",
+        "foreGroundFill":{
+          "fillType":"solid",
+          "color":0xFF000000,
+          "opacity":1},
+        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+        "lineSpacing":"0px",
+        "stateStyles":{
+},
+        "opacity":"1",
+        "fill":{
+          "fillType":"solid",
+          "color":0xFFFFFFFF},
+        "textShadow":{
+          "on":false,
+          "offsetX":1,
+          "offsetY":1,
+          "blurRadius":5,
+          "color":{
+            "r":0,
+            "g":0,
+            "b":0,
+            "a":0.647058844566345}},
+        "paddingTop":"2",
+        "paddingBottom":"2",
+        "location":{
+          "x":0,
+          "y":0},
+        "size":{
+          "width":0,
+          "height":0},
+        "visible":true,
+        "limbo":false,
+        "rotation":"0",
+        "textRotation":"0",
+        "borderWidth":"1",
+        "borderFill":{
+          "fillType":"solid",
+          "color":0xFF797979},
+        "linePattern":"solid",
+        "cornerRadiusTopLeft":"0",
+        "outerShadow":{
+          "on":false,
+          "offsetX":5,
+          "offsetY":5,
+          "blurRadius":5,
+          "color":{
+            "r":0,
+            "g":0,
+            "b":0,
+            "a":0.34901961684227}}},
+      "comboBox":{
+        "id":"9d2d6d65386c45e2a7f8029e55ac575d",
+        "fontName":"'ArialMT', 'Arial'",
+        "fontSize":"13px",
+        "fontWeight":"400",
+        "fontStyle":"normal",
+        "underline":false,
+        "horizontalAlignment":"left",
+        "verticalAlignment":"top",
+        "foreGroundFill":{
+          "fillType":"solid",
+          "color":0xFF000000,
+          "opacity":1},
+        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+        "lineSpacing":"0px",
+        "stateStyles":{
+},
+        "opacity":"1",
+        "fill":{
+          "fillType":"solid",
+          "color":0xFFFFFFFF},
+        "textShadow":{
+          "on":false,
+          "offsetX":1,
+          "offsetY":1,
+          "blurRadius":5,
+          "color":{
+            "r":0,
+            "g":0,
+            "b":0,
+            "a":0.647058844566345}},
+        "paddingTop":"2",
+        "paddingBottom":"2",
+        "location":{
+          "x":0,
+          "y":0},
+        "size":{
+          "width":0,
+          "height":0},
+        "visible":true,
+        "limbo":false,
+        "rotation":"0",
+        "textRotation":"0",
+        "borderWidth":"1",
+        "borderFill":{
+          "fillType":"solid",
+          "color":0xFF797979},
+        "linePattern":"solid",
+        "cornerRadiusTopLeft":"0",
+        "outerShadow":{
+          "on":false,
+          "offsetX":5,
+          "offsetY":5,
+          "blurRadius":5,
+          "color":{
+            "r":0,
+            "g":0,
+            "b":0,
+            "a":0.34901961684227}}},
+      "listBox":{
+        "id":"14ad74bc0ea045e689b92ea2d162e859",
+        "fontName":"'ArialMT', 'Arial'",
+        "fontSize":"13px",
+        "fontWeight":"400",
+        "fontStyle":"normal",
+        "underline":false,
+        "horizontalAlignment":"left",
+        "verticalAlignment":"top",
+        "foreGroundFill":{
+          "fillType":"solid",
+          "color":0xFF000000,
+          "opacity":1},
+        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+        "lineSpacing":"0px",
+        "stateStyles":{
+},
+        "opacity":"1",
+        "fill":{
+          "fillType":"solid",
+          "color":0xFFFFFFFF},
+        "textShadow":{
+          "on":false,
+          "offsetX":1,
+          "offsetY":1,
+          "blurRadius":5,
+          "color":{
+            "r":0,
+            "g":0,
+            "b":0,
+            "a":0.647058844566345}},
+        "paddingTop":"2",
+        "paddingBottom":"2",
+        "location":{
+          "x":0,
+          "y":0},
+        "size":{
+          "width":0,
+          "height":0},
+        "visible":true,
+        "limbo":false,
+        "rotation":"0",
+        "textRotation":"0",
+        "borderWidth":"1",
+        "borderFill":{
+          "fillType":"solid",
+          "color":0xFF797979},
+        "linePattern":"solid",
+        "cornerRadiusTopLeft":"0",
+        "outerShadow":{
+          "on":false,
+          "offsetX":5,
+          "offsetY":5,
+          "blurRadius":5,
+          "color":{
+            "r":0,
+            "g":0,
+            "b":0,
+            "a":0.34901961684227}}},
+      "checkbox":{
+        "id":"9cdc246bdd28445791a455833c503162",
+        "fontName":"'ArialMT', 'Arial'",
+        "fontSize":"13px",
+        "fontWeight":"400",
+        "fontStyle":"normal",
+        "underline":false,
+        "horizontalAlignment":"left",
+        "verticalAlignment":"top",
+        "foreGroundFill":{
+          "fillType":"solid",
+          "color":0xFF333333,
+          "opacity":1},
+        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+        "lineSpacing":"0px",
+        "stateStyles":{
+},
+        "opacity":"1",
+        "fill":{
+          "fillType":"solid",
+          "color":0xFFFFFF},
+        "textShadow":{
+          "on":false,
+          "offsetX":1,
+          "offsetY":1,
+          "blurRadius":5,
+          "color":{
+            "r":0,
+            "g":0,
+            "b":0,
+            "a":0.647058844566345}},
+        "paddingTop":"2",
+        "paddingBottom":"2",
+        "location":{
+          "x":0,
+          "y":0},
+        "size":{
+          "width":0,
+          "height":0},
+        "visible":true,
+        "limbo":false,
+        "rotation":"0",
+        "textRotation":"0",
+        "borderWidth":"-1",
+        "borderFill":{
+          "fillType":"solid",
+          "color":0xFF797979},
+        "linePattern":"solid",
+        "cornerRadiusTopLeft":"0",
+        "outerShadow":{
+          "on":false,
+          "offsetX":5,
+          "offsetY":5,
+          "blurRadius":5,
+          "color":{
+            "r":0,
+            "g":0,
+            "b":0,
+            "a":0.34901961684227}}},
+      "radioButton":{
+        "id":"a5d11c44d1b34948b9faf5fe0b7aa2f3",
+        "fontName":"'ArialMT', 'Arial'",
+        "fontSize":"13px",
+        "fontWeight":"400",
+        "fontStyle":"normal",
+        "underline":false,
+        "horizontalAlignment":"left",
+        "verticalAlignment":"top",
+        "foreGroundFill":{
+          "fillType":"solid",
+          "color":0xFF333333,
+          "opacity":1},
+        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+        "lineSpacing":"0px",
+        "stateStyles":{
+},
+        "opacity":"1",
+        "fill":{
+          "fillType":"solid",
+          "color":0xFFFFFF},
+        "textShadow":{
+          "on":false,
+          "offsetX":1,
+          "offsetY":1,
+          "blurRadius":5,
+          "color":{
+            "r":0,
+            "g":0,
+            "b":0,
+            "a":0.647058844566345}},
+        "paddingTop":"2",
+        "paddingBottom":"2",
+        "location":{
+          "x":0,
+          "y":0},
+        "size":{
+          "width":0,
+          "height":0},
+        "visible":true,
+        "limbo":false,
+        "rotation":"0",
+        "textRotation":"0",
+        "borderWidth":"-1",
+        "borderFill":{
+          "fillType":"solid",
+          "color":0xFF797979},
+        "linePattern":"solid",
+        "cornerRadiusTopLeft":"0",
+        "outerShadow":{
+          "on":false,
+          "offsetX":5,
+          "offsetY":5,
+          "blurRadius":5,
+          "color":{
+            "r":0,
+            "g":0,
+            "b":0,
+            "a":0.34901961684227}}},
+      "flowShape":{
+        "id":"1e313eb7225440c79a38d9d38fb3bfcd",
+        "fontName":"'ArialMT', 'Arial'",
+        "fontSize":"13px",
+        "fontWeight":"400",
+        "fontStyle":"normal",
+        "underline":false,
+        "horizontalAlignment":"center",
+        "verticalAlignment":"middle",
+        "foreGroundFill":{
+          "fillType":"solid",
+          "color":0xFF333333,
+          "opacity":1},
+        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+        "lineSpacing":"0px",
+        "stateStyles":{
+},
+        "opacity":"1",
+        "fill":{
+          "fillType":"linearGradient",
+          "colors":[{
+              "color":0xFFFFFFFF},
+{
+              "color":0xFFF2F2F2},
+{
+              "color":0xFFE4E4E4},
+{
+              "color":0xFFFFFFFF}]},
+        "textShadow":{
+          "on":false,
+          "offsetX":1,
+          "offsetY":1,
+          "blurRadius":5,
+          "color":{
+            "r":0,
+            "g":0,
+            "b":0,
+            "a":0.647058844566345}},
+        "paddingTop":"2",
+        "paddingBottom":"2",
+        "location":{
+          "x":0,
+          "y":0},
+        "size":{
+          "width":0,
+          "height":0},
+        "visible":true,
+        "limbo":false,
+        "rotation":"0",
+        "textRotation":"0",
+        "borderWidth":"1",
+        "borderFill":{
+          "fillType":"solid",
+          "color":0xFF797979},
+        "linePattern":"solid",
+        "cornerRadiusTopLeft":"0",
+        "outerShadow":{
+          "on":false,
+          "offsetX":5,
+          "offsetY":5,
+          "blurRadius":5,
+          "color":{
+            "r":0,
+            "g":0,
+            "b":0,
+            "a":0.34901961684227}}},
+      "treeNodeObject":{
+        "id":"817cf91b01434a0abe44a103cd925af2",
+        "fontName":"'ArialMT', 'Arial'",
+        "fontSize":"13px",
+        "fontWeight":"400",
+        "fontStyle":"normal",
+        "underline":false,
+        "horizontalAlignment":"left",
+        "verticalAlignment":"middle",
+        "foreGroundFill":{
+          "fillType":"solid",
+          "color":0xFF333333,
+          "opacity":1},
+        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+        "lineSpacing":"0px",
+        "stateStyles":{
+},
+        "opacity":"1",
+        "fill":{
+          "fillType":"solid",
+          "color":0xFFFFFF},
+        "textShadow":{
+          "on":false,
+          "offsetX":1,
+          "offsetY":1,
+          "blurRadius":5,
+          "color":{
+            "r":0,
+            "g":0,
+            "b":0,
+            "a":0.647058844566345}},
+        "paddingTop":"2",
+        "paddingBottom":"2",
+        "location":{
+          "x":0,
+          "y":0},
+        "size":{
+          "width":0,
+          "height":0},
+        "visible":true,
+        "limbo":false,
+        "rotation":"0",
+        "textRotation":"0",
+        "borderWidth":"-1",
+        "borderFill":{
+          "fillType":"solid",
+          "color":0xFF797979},
+        "linePattern":"solid",
+        "cornerRadiusTopLeft":"0",
+        "outerShadow":{
+          "on":false,
+          "offsetX":5,
+          "offsetY":5,
+          "blurRadius":5,
+          "color":{
+            "r":0,
+            "g":0,
+            "b":0,
+            "a":0.34901961684227}}},
+      "button":{
+        "id":"56a248a806954e7fbb56e1ad0fcda313",
+        "fontName":"'ArialMT', 'Arial'",
+        "fontSize":"13px",
+        "fontWeight":"400",
+        "fontStyle":"normal",
+        "underline":false,
+        "horizontalAlignment":"center",
+        "verticalAlignment":"middle",
+        "foreGroundFill":{
+          "fillType":"solid",
+          "color":0xFF000000,
+          "opacity":1},
+        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+        "lineSpacing":"0px",
+        "stateStyles":{
+},
+        "opacity":"1",
+        "fill":{
+          "fillType":"solid",
+          "color":0xFFFFFF},
+        "textShadow":{
+          "on":false,
+          "offsetX":1,
+          "offsetY":1,
+          "blurRadius":5,
+          "color":{
+            "r":0,
+            "g":0,
+            "b":0,
+            "a":0.647058844566345}},
+        "paddingTop":"2",
+        "paddingBottom":"2",
+        "location":{
+          "x":0,
+          "y":0},
+        "size":{
+          "width":0,
+          "height":0},
+        "visible":true,
+        "limbo":false,
+        "rotation":"0",
+        "textRotation":"0",
+        "borderWidth":"1",
+        "borderFill":{
+          "fillType":"solid",
+          "color":0xFF797979},
+        "linePattern":"solid",
+        "cornerRadiusTopLeft":"0",
+        "outerShadow":{
+          "on":false,
+          "offsetX":5,
+          "offsetY":5,
+          "blurRadius":5,
+          "color":{
+            "r":0,
+            "g":0,
+            "b":0,
+            "a":0.34901961684227}}},
+      "imageMapRegion":{
+        "id":"72680b8480e44412bb6e6d448721e72b",
+        "fontName":"'ArialMT', 'Arial'",
+        "fontSize":"13px",
+        "fontWeight":"400",
+        "fontStyle":"normal",
+        "underline":false,
+        "horizontalAlignment":"center",
+        "verticalAlignment":"middle",
+        "foreGroundFill":{
+          "fillType":"solid",
+          "color":0xFF333333,
+          "opacity":1},
+        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+        "lineSpacing":"0px",
+        "stateStyles":{
+},
+        "opacity":"1",
+        "fill":{
+          "fillType":"solid",
+          "color":0xFFFFFF},
+        "textShadow":{
+          "on":false,
+          "offsetX":1,
+          "offsetY":1,
+          "blurRadius":5,
+          "color":{
+            "r":0,
+            "g":0,
+            "b":0,
+            "a":0.647058844566345}},
+        "paddingTop":"2",
+        "paddingBottom":"2",
+        "location":{
+          "x":0,
+          "y":0},
+        "size":{
+          "width":0,
+          "height":0},
+        "visible":true,
+        "limbo":false,
+        "rotation":"0",
+        "textRotation":"0",
+        "borderWidth":"-1",
+        "borderFill":{
+          "fillType":"solid",
+          "color":0xFF797979},
+        "linePattern":"solid",
+        "cornerRadiusTopLeft":"0",
+        "outerShadow":{
+          "on":false,
+          "offsetX":5,
+          "offsetY":5,
+          "blurRadius":5,
+          "color":{
+            "r":0,
+            "g":0,
+            "b":0,
+            "a":0.34901961684227}}},
+      "inlineFrame":{
+        "id":"5aff26c39e8e48ae891f34d137a8bb0e",
+        "fontName":"'ArialMT', 'Arial'",
+        "fontSize":"13px",
+        "fontWeight":"400",
+        "fontStyle":"normal",
+        "underline":false,
+        "horizontalAlignment":"center",
+        "verticalAlignment":"middle",
+        "foreGroundFill":{
+          "fillType":"solid",
+          "color":0xFF333333,
+          "opacity":1},
+        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+        "lineSpacing":"0px",
+        "stateStyles":{
+},
+        "opacity":"1",
+        "fill":{
+          "fillType":"solid",
+          "color":0xFFFFFF},
+        "textShadow":{
+          "on":false,
+          "offsetX":1,
+          "offsetY":1,
+          "blurRadius":5,
+          "color":{
+            "r":0,
+            "g":0,
+            "b":0,
+            "a":0.647058844566345}},
+        "paddingTop":"2",
+        "paddingBottom":"2",
+        "location":{
+          "x":0,
+          "y":0},
+        "size":{
+          "width":0,
+          "height":0},
+        "visible":true,
+        "limbo":false,
+        "rotation":"0",
+        "textRotation":"0",
+        "borderWidth":"-1",
+        "borderFill":{
+          "fillType":"solid",
+          "color":0xFF797979},
+        "linePattern":"solid",
+        "cornerRadiusTopLeft":"0",
+        "outerShadow":{
+          "on":false,
+          "offsetX":5,
+          "offsetY":5,
+          "blurRadius":5,
+          "color":{
+            "r":0,
+            "g":0,
+            "b":0,
+            "a":0.34901961684227}}},
+      "dynamicPanel":{
+        "id":"d9b824fee60b4abe998eddafcf60f242",
+        "fontName":"'ArialMT', 'Arial'",
+        "fontSize":"13px",
+        "fontWeight":"400",
+        "fontStyle":"normal",
+        "underline":false,
+        "horizontalAlignment":"center",
+        "verticalAlignment":"middle",
+        "foreGroundFill":{
+          "fillType":"solid",
+          "color":0xFF333333,
+          "opacity":1},
+        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+        "lineSpacing":"0px",
+        "stateStyles":{
+},
+        "opacity":"1",
+        "fill":{
+          "fillType":"solid",
+          "color":0xFFFFFF},
+        "textShadow":{
+          "on":false,
+          "offsetX":1,
+          "offsetY":1,
+          "blurRadius":5,
+          "color":{
+            "r":0,
+            "g":0,
+            "b":0,
+            "a":0.647058844566345}},
+        "paddingTop":"2",
+        "paddingBottom":"2",
+        "location":{
+          "x":0,
+          "y":0},
+        "size":{
+          "width":0,
+          "height":0},
+        "visible":true,
+        "limbo":false,
+        "rotation":"0",
+        "textRotation":"0",
+        "borderWidth":"-1",
+        "borderFill":{
+          "fillType":"solid",
+          "color":0xFF797979},
+        "linePattern":"solid",
+        "cornerRadiusTopLeft":"0",
+        "outerShadow":{
+          "on":false,
+          "offsetX":5,
+          "offsetY":5,
+          "blurRadius":5,
+          "color":{
+            "r":0,
+            "g":0,
+            "b":0,
+            "a":0.34901961684227}}},
+      "referenceDiagramObject":{
+        "id":"8888f3a445bf4b3aa10d27f3b120f7d6",
+        "fontName":"'ArialMT', 'Arial'",
+        "fontSize":"13px",
+        "fontWeight":"400",
+        "fontStyle":"normal",
+        "underline":false,
+        "horizontalAlignment":"center",
+        "verticalAlignment":"middle",
+        "foreGroundFill":{
+          "fillType":"solid",
+          "color":0xFF333333,
+          "opacity":1},
+        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+        "lineSpacing":"0px",
+        "stateStyles":{
+},
+        "opacity":"1",
+        "fill":{
+          "fillType":"solid",
+          "color":0xFFFFFF},
+        "textShadow":{
+          "on":false,
+          "offsetX":1,
+          "offsetY":1,
+          "blurRadius":5,
+          "color":{
+            "r":0,
+            "g":0,
+            "b":0,
+            "a":0.647058844566345}},
+        "paddingTop":"2",
+        "paddingBottom":"2",
+        "location":{
+          "x":0,
+          "y":0},
+        "size":{
+          "width":0,
+          "height":0},
+        "visible":true,
+        "limbo":false,
+        "rotation":"0",
+        "textRotation":"0",
+        "borderWidth":"-1",
+        "borderFill":{
+          "fillType":"solid",
+          "color":0xFF797979},
+        "linePattern":"solid",
+        "cornerRadiusTopLeft":"0",
+        "outerShadow":{
+          "on":false,
+          "offsetX":5,
+          "offsetY":5,
+          "blurRadius":5,
+          "color":{
+            "r":0,
+            "g":0,
+            "b":0,
+            "a":0.34901961684227}}},
+      "repeater":{
+        "id":"0fe3e30b4ed64d8684b8fb9d4b838bc3",
+        "fontName":"'ArialMT', 'Arial'",
+        "fontSize":"13px",
+        "fontWeight":"400",
+        "fontStyle":"normal",
+        "underline":false,
+        "horizontalAlignment":"center",
+        "verticalAlignment":"middle",
+        "foreGroundFill":{
+          "fillType":"solid",
+          "color":0xFF333333,
+          "opacity":1},
+        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+        "lineSpacing":"0px",
+        "stateStyles":{
+},
+        "opacity":"1",
+        "fill":{
+          "fillType":"solid",
+          "color":0xFFFFFF},
+        "textShadow":{
+          "on":false,
+          "offsetX":1,
+          "offsetY":1,
+          "blurRadius":5,
+          "color":{
+            "r":0,
+            "g":0,
+            "b":0,
+            "a":0.647058844566345}},
+        "paddingTop":"2",
+        "paddingBottom":"2",
+        "location":{
+          "x":0,
+          "y":0},
+        "size":{
+          "width":0,
+          "height":0},
+        "visible":true,
+        "limbo":false,
+        "rotation":"0",
+        "textRotation":"0",
+        "borderWidth":"-1",
+        "borderFill":{
+          "fillType":"solid",
+          "color":0xFF797979},
+        "linePattern":"solid",
+        "cornerRadiusTopLeft":"0",
+        "outerShadow":{
+          "on":false,
+          "offsetX":5,
+          "offsetY":5,
+          "blurRadius":5,
+          "color":{
+            "r":0,
+            "g":0,
+            "b":0,
+            "a":0.34901961684227}}},
+      "table":{
+        "id":"c661b0f275224bbf9d41d6be8036715c",
+        "fontName":"'ArialMT', 'Arial'",
+        "fontSize":"13px",
+        "fontWeight":"400",
+        "fontStyle":"normal",
+        "underline":false,
+        "horizontalAlignment":"center",
+        "verticalAlignment":"middle",
+        "foreGroundFill":{
+          "fillType":"solid",
+          "color":0xFF333333,
+          "opacity":1},
+        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+        "lineSpacing":"0px",
+        "stateStyles":{
+},
+        "opacity":"1",
+        "fill":{
+          "fillType":"solid",
+          "color":0xFFFFFFFF},
+        "textShadow":{
+          "on":false,
+          "offsetX":1,
+          "offsetY":1,
+          "blurRadius":5,
+          "color":{
+            "r":0,
+            "g":0,
+            "b":0,
+            "a":0.647058844566345}},
+        "paddingTop":"2",
+        "paddingBottom":"2",
+        "location":{
+          "x":0,
+          "y":0},
+        "size":{
+          "width":0,
+          "height":0},
+        "visible":true,
+        "limbo":false,
+        "rotation":"0",
+        "textRotation":"0",
+        "borderWidth":"1",
+        "borderFill":{
+          "fillType":"solid",
+          "color":0xFF797979},
+        "linePattern":"solid",
+        "cornerRadiusTopLeft":"0",
+        "outerShadow":{
+          "on":false,
+          "offsetX":5,
+          "offsetY":5,
+          "blurRadius":5,
+          "color":{
+            "r":0,
+            "g":0,
+            "b":0,
+            "a":0.34901961684227}}},
+      "tableCell":{
+        "id":"5833b5cc15c843d5a90681ff0e5c5e76",
+        "fontName":"'ArialMT', 'Arial'",
+        "fontSize":"13px",
+        "fontWeight":"400",
+        "fontStyle":"normal",
+        "underline":false,
+        "horizontalAlignment":"left",
+        "verticalAlignment":"top",
+        "foreGroundFill":{
+          "fillType":"solid",
+          "color":0xFF333333,
+          "opacity":1},
+        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+        "lineSpacing":"0px",
+        "stateStyles":{
+},
+        "opacity":"1",
+        "fill":{
+          "fillType":"solid",
+          "color":0xFFFFFFFF},
+        "textShadow":{
+          "on":false,
+          "offsetX":1,
+          "offsetY":1,
+          "blurRadius":5,
+          "color":{
+            "r":0,
+            "g":0,
+            "b":0,
+            "a":0.647058844566345}},
+        "paddingTop":"2",
+        "paddingBottom":"2",
+        "location":{
+          "x":0,
+          "y":0},
+        "size":{
+          "width":0,
+          "height":0},
+        "visible":true,
+        "limbo":false,
+        "rotation":"0",
+        "textRotation":"0",
+        "borderWidth":"1",
+        "borderFill":{
+          "fillType":"solid",
+          "color":0xFF797979},
+        "linePattern":"solid",
+        "cornerRadiusTopLeft":"0",
+        "outerShadow":{
+          "on":false,
+          "offsetX":5,
+          "offsetY":5,
+          "blurRadius":5,
+          "color":{
+            "r":0,
+            "g":0,
+            "b":0,
+            "a":0.34901961684227}}},
+      "menuObject":{
+        "id":"f037012dfb9f4b20b923ec7f152e8a6a",
+        "fontName":"'ArialMT', 'Arial'",
+        "fontSize":"13px",
+        "fontWeight":"400",
+        "fontStyle":"normal",
+        "underline":false,
+        "horizontalAlignment":"center",
+        "verticalAlignment":"middle",
+        "foreGroundFill":{
+          "fillType":"solid",
+          "color":0xFF000000,
+          "opacity":1},
+        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+        "lineSpacing":"0px",
+        "stateStyles":{
+},
+        "opacity":"1",
+        "fill":{
+          "fillType":"solid",
+          "color":0xFFFFFFFF},
+        "textShadow":{
+          "on":false,
+          "offsetX":1,
+          "offsetY":1,
+          "blurRadius":5,
+          "color":{
+            "r":0,
+            "g":0,
+            "b":0,
+            "a":0.647058844566345}},
+        "paddingTop":"2",
+        "paddingBottom":"2",
+        "location":{
+          "x":0,
+          "y":0},
+        "size":{
+          "width":0,
+          "height":0},
+        "visible":true,
+        "limbo":false,
+        "rotation":"0",
+        "textRotation":"0",
+        "borderWidth":"1",
+        "borderFill":{
+          "fillType":"solid",
+          "color":0xFF797979},
+        "linePattern":"solid",
+        "cornerRadiusTopLeft":"0",
+        "outerShadow":{
+          "on":false,
+          "offsetX":5,
+          "offsetY":5,
+          "blurRadius":5,
+          "color":{
+            "r":0,
+            "g":0,
+            "b":0,
+            "a":0.34901961684227}}},
+      "horizontalLine":{
+        "id":"d8cec02132d249a382c2329382443a85",
+        "fontName":"'ArialMT', 'Arial'",
+        "fontSize":"13px",
+        "fontWeight":"400",
+        "fontStyle":"normal",
+        "underline":false,
+        "horizontalAlignment":"center",
+        "verticalAlignment":"middle",
+        "foreGroundFill":{
+          "fillType":"solid",
+          "color":0xFF333333,
+          "opacity":1},
+        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+        "lineSpacing":"0px",
+        "stateStyles":{
+},
+        "opacity":"1",
+        "fill":{
+          "fillType":"solid",
+          "color":0xFFFFFFFF},
+        "textShadow":{
+          "on":false,
+          "offsetX":1,
+          "offsetY":1,
+          "blurRadius":5,
+          "color":{
+            "r":0,
+            "g":0,
+            "b":0,
+            "a":0.647058844566345}},
+        "paddingTop":"2",
+        "paddingBottom":"2",
+        "location":{
+          "x":0,
+          "y":0},
+        "size":{
+          "width":0,
+          "height":0},
+        "visible":true,
+        "limbo":false,
+        "rotation":"0",
+        "textRotation":"0",
+        "borderWidth":"1",
+        "borderFill":{
+          "fillType":"solid",
+          "color":0xFF000000},
+        "linePattern":"solid",
+        "cornerRadiusTopLeft":"0",
+        "outerShadow":{
+          "on":false,
+          "offsetX":5,
+          "offsetY":5,
+          "blurRadius":5,
+          "color":{
+            "r":0,
+            "g":0,
+            "b":0,
+            "a":0.34901961684227}}},
+      "verticalLine":{
+        "id":"bca1e6682c2348bea2e51a96904cddba",
+        "fontName":"'ArialMT', 'Arial'",
+        "fontSize":"13px",
+        "fontWeight":"400",
+        "fontStyle":"normal",
+        "underline":false,
+        "horizontalAlignment":"center",
+        "verticalAlignment":"middle",
+        "foreGroundFill":{
+          "fillType":"solid",
+          "color":0xFF333333,
+          "opacity":1},
+        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+        "lineSpacing":"0px",
+        "stateStyles":{
+},
+        "opacity":"1",
+        "fill":{
+          "fillType":"solid",
+          "color":0xFFFFFFFF},
+        "textShadow":{
+          "on":false,
+          "offsetX":1,
+          "offsetY":1,
+          "blurRadius":5,
+          "color":{
+            "r":0,
+            "g":0,
+            "b":0,
+            "a":0.647058844566345}},
+        "paddingTop":"2",
+        "paddingBottom":"2",
+        "location":{
+          "x":0,
+          "y":0},
+        "size":{
+          "width":0,
+          "height":0},
+        "visible":true,
+        "limbo":false,
+        "rotation":"0",
+        "textRotation":"0",
+        "borderWidth":"1",
+        "borderFill":{
+          "fillType":"solid",
+          "color":0xFF000000},
+        "linePattern":"solid",
+        "cornerRadiusTopLeft":"0",
+        "outerShadow":{
+          "on":false,
+          "offsetX":5,
+          "offsetY":5,
+          "blurRadius":5,
+          "color":{
+            "r":0,
+            "g":0,
+            "b":0,
+            "a":0.34901961684227}}},
+      "connector":{
+        "id":"710224d492184b7c8230082fb0cc4182",
+        "fontName":"'ArialMT', 'Arial'",
+        "fontSize":"13px",
+        "fontWeight":"400",
+        "fontStyle":"normal",
+        "underline":false,
+        "horizontalAlignment":"center",
+        "verticalAlignment":"middle",
+        "foreGroundFill":{
+          "fillType":"solid",
+          "color":0xFF333333,
+          "opacity":1},
+        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+        "lineSpacing":"0px",
+        "stateStyles":{
+},
+        "opacity":"1",
+        "fill":{
+          "fillType":"solid",
+          "color":0xFFFFFFFF},
+        "textShadow":{
+          "on":false,
+          "offsetX":1,
+          "offsetY":1,
+          "blurRadius":5,
+          "color":{
+            "r":0,
+            "g":0,
+            "b":0,
+            "a":0.647058844566345}},
+        "paddingTop":"2",
+        "paddingBottom":"2",
+        "location":{
+          "x":0,
+          "y":0},
+        "size":{
+          "width":0,
+          "height":0},
+        "visible":true,
+        "limbo":false,
+        "rotation":"0",
+        "textRotation":"0",
+        "borderWidth":"1",
+        "borderFill":{
+          "fillType":"solid",
+          "color":0xFF0099CC},
+        "linePattern":"solid",
+        "cornerRadiusTopLeft":"0",
+        "outerShadow":{
+          "on":false,
+          "offsetX":5,
+          "offsetY":5,
+          "blurRadius":5,
+          "color":{
+            "r":0,
+            "g":0,
+            "b":0,
+            "a":0.34901961684227}}}},
+    "customStyles":{
+}}});
