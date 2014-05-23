@@ -108,10 +108,11 @@
 #u9 {
   position:absolute;
   left:100px;
-  top:210px;
+  top:218px;
   width:540px;
   height:40px;
   font-size:15px;
+  line-height:20px;
 }
 #u9_img {
   position:absolute;
@@ -123,7 +124,7 @@
 #u10 {
   position:absolute;
   left:20px;
-  top:12px;
+  top:0px;
   width:500px;
   word-wrap:break-word;
 }

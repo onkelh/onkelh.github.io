@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"bruker_opprettet_1.html",
-  "generationDate":new Date(1400832041256.9),
+  "generationDate":new Date(1400832791900.84),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
