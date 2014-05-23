@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"velg_passord_1.html",
-  "generationDate":new Date(1400834244036.36),
+  "generationDate":new Date(1400834548803.24),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

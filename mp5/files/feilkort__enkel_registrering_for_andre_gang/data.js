@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"feilkort__enkel_registrering_for_andre_gang.html",
-  "generationDate":new Date(1400834243290.72),
+  "generationDate":new Date(1400834548140.72),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
