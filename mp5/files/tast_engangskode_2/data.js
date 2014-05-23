@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"tast_engangskode_2.html",
-  "generationDate":new Date(1400747824578.65),
+  "generationDate":new Date(1400832041697.83),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

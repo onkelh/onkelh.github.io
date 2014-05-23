@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"insentivside__med_tidsbegrensning_-_responsive_vie.html",
-  "generationDate":new Date(1400747817476.37),
+  "generationDate":new Date(1400832034536.66),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"tilgang_login_4.html",
-  "generationDate":new Date(1400747826237.14),
+  "generationDate":new Date(1400832043544.15),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -536,64 +536,7 @@
                         "url":"opprett_bruker_5.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
-          "tabbable":true},
-{
-          "id":"9dd7d3be3b9f4b86a0d9e481b1ef8e01",
-          "label":"",
-          "type":"buttonShape",
-          "styleType":"buttonShape",
-          "visible":true,
-          "style":{
-            "fontSize":"15px",
-            "horizontalAlignment":"left",
-            "foreGroundFill":{
-              "fillType":"solid",
-              "color":0xFFFF0000,
-              "opacity":1},
-            "fill":{
-              "fillType":"solid",
-              "color":0xFFFFFF},
-            "paddingTop":"20",
-            "paddingBottom":"20",
-            "location":{
-              "x":730,
-              "y":210},
-            "size":{
-              "width":540,
-              "height":40},
-            "borderWidth":"-1"},
-          "adaptiveStyles":{
-},
-          "objects":[{
-              "id":"e8e2705242da4a5d9636304f3e1d771e",
-              "label":"",
-              "isContained":true,
-              "type":"richTextPanel",
-              "styleType":"paragraph",
-              "visible":true,
-              "style":{
-                "fontSize":"15px",
-                "horizontalAlignment":"left",
-                "foreGroundFill":{
-                  "fillType":"solid",
-                  "color":0xFFFF0000,
-                  "opacity":1},
-                "fill":{
-                  "fillType":"solid",
-                  "color":0xFFFFFF},
-                "paddingTop":"20",
-                "paddingBottom":"20",
-                "location":{
-                  "x":730,
-                  "y":210},
-                "size":{
-                  "width":540,
-                  "height":40},
-                "borderWidth":"-1"},
-              "adaptiveStyles":{
-}}],
-          "images":{
-            "normal~":"resources/images/transparent.gif"}}]}},
+          "tabbable":true}]}},
   "masters":{
     "2b40fb19f33c450284c7533e94ceefb7":{
       "packageId":"2b40fb19f33c450284c7533e94ceefb7",
@@ -700,8 +643,4 @@
     "3c692c53f9d742b38e41a3867f9713f2":{
       "scriptId":"u21"},
     "8c0960562dab4b57a918f00e50fdeaf1":{
-      "scriptId":"u22"},
-    "9dd7d3be3b9f4b86a0d9e481b1ef8e01":{
-      "scriptId":"u23"},
-    "e8e2705242da4a5d9636304f3e1d771e":{
-      "scriptId":"u24"}}});
+      "scriptId":"u22"}}});
