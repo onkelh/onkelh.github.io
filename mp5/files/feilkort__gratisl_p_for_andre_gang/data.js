@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"feilkort__gratisl_p_for_andre_gang.html",
-  "generationDate":new Date(1400834546169.4),
+  "generationDate":new Date(1400834760717.09),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

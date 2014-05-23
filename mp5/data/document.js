@@ -105,7 +105,7 @@
                 "type":"Wireframe",
                 "url":"feilkort__enkel_registrering_for_andre_gang.html"}]}]},
 {
-        "pageName":"MP5 - innlogget",
+        "pageName":"- - - INNLOGGET - - -",
         "type":"Folder",
         "url":"",
         "children":[{
@@ -285,7 +285,7 @@
                 "type":"Wireframe",
                 "url":"dit_du_ville_5.html"}]}]},
 {
-        "pageName":"MP5 - utlogget",
+        "pageName":"- - - UTLOGGET - - -",
         "type":"Folder",
         "url":"",
         "children":[{
