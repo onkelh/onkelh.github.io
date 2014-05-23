@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"tast_kj_pskode_2.html",
-  "generationDate":new Date(1400832794422.3),
+  "generationDate":new Date(1400834246736.96),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

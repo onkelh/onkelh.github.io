@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"bruker_opprettet_5.html",
-  "generationDate":new Date(1400832794365.37),
+  "generationDate":new Date(1400834246693.54),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -261,10 +261,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"Open engangskjøpsiden in Current Window",
+                      "description":"Open tast kjøpskode in Current Window",
                       "target":{
                         "targetType":"page",
-                        "url":"engangskj_psiden_2.html",
+                        "url":"tast_kj_pskode_2.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true}]}},

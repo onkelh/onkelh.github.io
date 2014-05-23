@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"startside_for_prototypen.html",
-  "generationDate":new Date(1400832785144.38),
+  "generationDate":new Date(1400834237332.42),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

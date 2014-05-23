@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"tast_engangskode_5.html",
-  "generationDate":new Date(1400833975541.43),
+  "generationDate":new Date(1400834246592.93),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -94,7 +94,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/tast_engangskode_5/regen/u3.png"}},
+            "normal~":"images/tast_engangskode/u3.png"}},
 {
           "id":"8b1c9cc57d4948ce85e084b1a9e31521",
           "label":"",
@@ -135,7 +135,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/tast_engangskode_5/regen/u5.png"}},
+            "normal~":"images/tilgang_login_-_responsive_view/u5.png"}},
 {
           "id":"ce841c68e270422fbe05b834ba782bd4",
           "label":"",
@@ -192,7 +192,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/tast_engangskode_5/regen/u7.png"}},
+            "normal~":"images/tast_engangskode/u7.png"}},
 {
           "id":"c512aaf2c7674daf9029f8ec3ed9c489",
           "label":"",
@@ -292,7 +292,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/tast_engangskode_5/regen/u11.png"}},
+            "normal~":"images/tilgang_login_-_responsive_view/u11.png"}},
 {
           "id":"781b0a5ce5434401a855433d5890a214",
           "label":"",
@@ -382,7 +382,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/tast_engangskode_5/regen/u1.jpg"}}]}}},
+              "normal~":"images/tilgang_login_-_responsive_view/u1.jpg"}}]}}},
   "objectPaths":{
     "3b66713c9cb746faaea7152a3f199e3b":{
       "scriptId":"u0",

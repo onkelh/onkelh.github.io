@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"feilmeldinger.html",
-  "generationDate":new Date(1400832785783.33),
+  "generationDate":new Date(1400834237925.35),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
