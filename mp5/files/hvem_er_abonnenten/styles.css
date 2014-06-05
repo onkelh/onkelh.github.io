@@ -1,6 +1,7 @@
 ﻿body {
   margin:0px;
   background-image:none;
+  touch-action:none;
   position:static;
   left:auto;
   width:753px;
@@ -64,6 +65,7 @@
   height:60px;
   font-family:'GuardianSansWeb-Black', 'Guardian Sans Web Black';
   font-weight:900;
+  font-style:normal;
   font-size:34px;
 }
 #u5_img {
@@ -113,6 +115,7 @@
   height:40px;
   font-family:'OpenSans-CondensedBold', 'Open Sans Condensed Bold', 'Open Sans Condensed';
   font-weight:700;
+  font-style:normal;
   font-size:19px;
   color:#FFFFFF;
 }

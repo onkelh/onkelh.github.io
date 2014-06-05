@@ -1,6 +1,7 @@
 ﻿body {
   margin:0px;
   background-image:none;
+  touch-action:none;
   position:static;
   left:auto;
   width:1390px;
@@ -20,6 +21,7 @@
   height:80px;
   font-family:'GuardianSansWeb-Black', 'Guardian Sans Web Black';
   font-weight:900;
+  font-style:normal;
   text-align:center;
 }
 #u0_img {
@@ -72,6 +74,7 @@
   height:40px;
   font-family:'OpenSans-CondensedBold', 'Open Sans Condensed Bold', 'Open Sans Condensed';
   font-weight:700;
+  font-style:normal;
   font-size:19px;
   color:#000000;
 }
@@ -141,6 +144,7 @@
   height:63px;
   font-family:'Roboto-Light', 'Roboto Light', 'Roboto';
   font-weight:200;
+  font-style:normal;
   font-size:16px;
   text-align:center;
 }
@@ -166,6 +170,7 @@
   height:25px;
   font-family:'Roboto-Light', 'Roboto Light', 'Roboto';
   font-weight:200;
+  font-style:normal;
   font-size:19px;
   text-decoration:underline;
   text-align:right;
@@ -192,6 +197,7 @@
   height:25px;
   font-family:'Roboto-Light', 'Roboto Light', 'Roboto';
   font-weight:200;
+  font-style:normal;
   font-size:19px;
   text-decoration:underline;
 }
@@ -245,6 +251,7 @@
   height:80px;
   font-family:'GuardianSansWeb-Black', 'Guardian Sans Web Black';
   font-weight:900;
+  font-style:normal;
   text-align:center;
 }
 #u17_img {
@@ -297,6 +304,7 @@
   height:80px;
   font-family:'GuardianSansWeb-Black', 'Guardian Sans Web Black';
   font-weight:900;
+  font-style:normal;
   text-align:center;
 }
 #u20_img {
@@ -344,6 +352,7 @@
   height:25px;
   font-family:'Roboto-Light', 'Roboto Light', 'Roboto';
   font-weight:200;
+  font-style:normal;
   font-size:19px;
   text-decoration:underline;
   text-align:right;
@@ -398,6 +407,7 @@
   height:25px;
   font-family:'Roboto-Light', 'Roboto Light', 'Roboto';
   font-weight:200;
+  font-style:normal;
   font-size:19px;
   text-decoration:underline;
 }
@@ -445,6 +455,7 @@
   height:35px;
   font-family:'Roboto-Light', 'Roboto Light', 'Roboto';
   font-weight:200;
+  font-style:normal;
   font-size:19px;
   color:#FFFFFF;
   text-align:center;
@@ -493,6 +504,7 @@
   height:80px;
   font-family:'GuardianSansWeb-Black', 'Guardian Sans Web Black';
   font-weight:900;
+  font-style:normal;
   text-align:center;
   line-height:34px;
 }
@@ -518,6 +530,7 @@
   height:63px;
   font-family:'Roboto-Light', 'Roboto Light', 'Roboto';
   font-weight:200;
+  font-style:normal;
   font-size:16px;
   text-align:center;
 }
@@ -543,6 +556,7 @@
   height:25px;
   font-family:'Roboto-Light', 'Roboto Light', 'Roboto';
   font-weight:200;
+  font-style:normal;
   font-size:19px;
   text-decoration:underline;
   text-align:center;
@@ -569,6 +583,7 @@
   height:25px;
   font-family:'Roboto-Light', 'Roboto Light', 'Roboto';
   font-weight:200;
+  font-style:normal;
   font-size:19px;
   text-decoration:underline;
   text-align:center;
@@ -623,6 +638,7 @@
   height:80px;
   font-family:'GuardianSansWeb-Black', 'Guardian Sans Web Black';
   font-weight:900;
+  font-style:normal;
   text-align:center;
 }
 #u46_img {
@@ -647,6 +663,7 @@
   height:40px;
   font-family:'OpenSans-CondensedBold', 'Open Sans Condensed Bold', 'Open Sans Condensed';
   font-weight:700;
+  font-style:normal;
   font-size:19px;
   color:#000000;
 }
@@ -722,6 +739,7 @@
   height:80px;
   font-family:'GuardianSansWeb-Black', 'Guardian Sans Web Black';
   font-weight:900;
+  font-style:normal;
   text-align:center;
   line-height:34px;
 }
@@ -747,6 +765,7 @@
   height:25px;
   font-family:'Roboto-Light', 'Roboto Light', 'Roboto';
   font-weight:200;
+  font-style:normal;
   font-size:19px;
   text-decoration:underline;
   text-align:center;
@@ -773,6 +792,7 @@
   height:25px;
   font-family:'Roboto-Light', 'Roboto Light', 'Roboto';
   font-weight:200;
+  font-style:normal;
   font-size:19px;
   text-decoration:underline;
   text-align:center;
@@ -844,6 +864,7 @@
   height:35px;
   font-family:'Roboto-Light', 'Roboto Light', 'Roboto';
   font-weight:200;
+  font-style:normal;
   font-size:19px;
   color:#FFFFFF;
   text-align:center;

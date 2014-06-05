@@ -1,6 +1,7 @@
 ﻿body {
   margin:0px;
   background-image:none;
+  touch-action:none;
   position:static;
   left:auto;
   width:960px;
@@ -111,6 +112,7 @@
   height:40px;
   font-family:'OpenSans-CondensedBold', 'Open Sans Condensed Bold', 'Open Sans Condensed';
   font-weight:700;
+  font-style:normal;
   font-size:19px;
   color:#FFFFFF;
 }
@@ -491,6 +493,7 @@
   height:120px;
   font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
   font-weight:700;
+  font-style:normal;
   font-size:18px;
   color:#CC0000;
   text-align:left;
