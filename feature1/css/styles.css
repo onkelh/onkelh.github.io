@@ -175,6 +175,19 @@ ul.unordered-list {
 	text-align: center;
 }
 
+.quote-type-3 {
+	font-family: "Droid Serif", Georgia, Serif;
+	font-size: 40px;
+	font-weight: 700;
+	font-style: italic;
+	line-height: 54px;
+	letter-spacing: -0.02em;
+	margin: 40px 0;
+	display: block;
+	padding: 20px 10%;
+	text-align: center;
+}
+
 /* ADS
 ***************************/
 
