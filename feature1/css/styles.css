@@ -136,7 +136,15 @@
 	padding: 20px 10px 10px 0;
 }
 
-.quote {
+ul.unordered-list {
+	list-style-type: disc;
+	margin-left: 20px;
+}
+
+/* QUOTES
+***************************/
+
+.quote-type-1 {
 	background-color: #d62727;
 	border-top: 1px solid #d62727;
 	border-bottom: 1px solid #d62727;
@@ -153,9 +161,18 @@
 	text-align: center;
 }
 
-ul.unordered-list {
-	list-style-type: disc;
-	margin-left: 20px;
+.quote-type-2 {
+	color: #d62727;
+	font-family: "Droid Serif", Georgia, Serif;
+	font-size: 50px;
+	font-weight: 700;
+	font-style: italic;
+	line-height: 54px;
+	letter-spacing: -0.02em;
+	margin: 40px 0;
+	display: block;
+	padding: 20px 10%;
+	text-align: center;
 }
 
 /* ADS
