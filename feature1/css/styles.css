@@ -116,13 +116,23 @@
 	margin-bottom: 20px;
 }
 
-.image-title {
+.image-title-type-1 {
 	border-bottom: 1px solid #eee;
 	color: #767676;
 	font-family: "Droid Serif", Georgia, Serif;
 	font-style: italic;
 	font-size: 13px;
 	padding-bottom: 10px;
+}
+
+.image-title-type-2 {
+	background: #d62727;
+	color: #fff;
+	font-family: "Droid Serif", Georgia, Serif;
+	font-style: italic;
+	font-size: 13px;
+	margin-top: -9px;
+	padding: 5px 10px;
 }
 
 .strong {
