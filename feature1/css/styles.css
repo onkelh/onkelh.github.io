@@ -1,0 +1,174 @@
+@charset "UTF-8";
+
+* {
+    -moz-box-sizing: border-box; /*For Mozilla*/
+    -webkit-box-sizing: border-box; /*For Chrome og Safari*/
+    box-sizing: border-box;
+    -ms-box-sizing: border-box; /*For IE8*/
+}
+
+.container {
+	background: #fcfCf1;
+	color: #101010;
+	font-family: "Open Sans", Helvetica, Arial, sans-serif;
+	font-size: 17px;
+	line-height: 30px;
+}
+
+.article-container {
+	margin: 0 auto;
+}
+
+.article-block {
+	max-width: 950px;
+	margin: 0 auto;
+}
+
+.article-block > p {
+	margin: 0 auto 20px auto;
+	max-width: 650px;
+}
+
+.article-header {
+	margin-bottom: 60px;
+	position: relative;
+	text-align: center;
+}
+
+.article-title-wrapper {
+	background: rgba(0,0,0,.75);
+	padding: 20px;
+	position: absolute;
+	bottom: 8px;
+	left: 0;
+	width: 100%;
+	z-index: 10;
+}
+
+.article-title {
+	color: #fff;
+	font-family: "Droid Serif", Georgia, Serif;
+	font-size: 60px;
+	font-weight: 700;
+	font-style: italic;
+	line-height: 66px;
+	letter-spacing: -0.02em;
+	margin: 0 auto;
+	max-width: 1440px;
+}
+
+.np-logo {
+	left: 0;
+	position: absolute;
+	top: 0;
+	width: 100px;
+	box-shadow: 1px 1px 5px rgba(0,0,0,.2);
+}
+
+.article-top-img {
+	width: 100%;
+	z-index: 1;
+}
+
+.image {
+	width: 100%;
+}
+
+.element-fullwidth {
+	width: 100%;
+	margin-bottom: 30px;
+}
+
+.element-centered {
+	width: 1100px;
+	margin: 80px auto;
+	overflow: auto;
+}
+
+.element-leftAligned {
+	float: left;
+	margin: 30px 30px 30px 0;
+	max-width: 350px;
+}
+
+.element-rightAligned {
+	float: right;
+	margin: 30px 0 30px 30px;
+	max-width: 350px;
+}
+
+.half {
+	width: 48%;
+	margin: 10px;
+	float: left;
+}
+
+.box {
+	background: #202020;
+	color: #fff;
+	padding: 20px;
+	box-shadow: 0 1px 5px rgba(0,0,0,.25);
+}
+
+.box h2 {
+	font-weight: 700;
+	text-transform: uppercase;
+	margin-bottom: 20px;
+}
+
+.image-title {
+	border-bottom: 1px solid #eee;
+	color: #767676;
+	font-family: "Droid Serif", Georgia, Serif;
+	font-style: italic;
+	font-size: 13px;
+	padding-bottom: 10px;
+}
+
+.strong {
+	font-weight: 700;
+	text-transform: uppercase;
+}
+
+.huge {
+	font-size: 80px;
+	float: left;
+	padding: 20px 10px 10px 0;
+}
+
+.quote {
+	background-color: #d62727;
+	border-top: 1px solid #d62727;
+	border-bottom: 1px solid #d62727;
+	color: #fff;
+	font-family: "Droid Serif", Georgia, Serif;
+	font-size: 50px;
+	font-weight: 700;
+	font-style: italic;
+	line-height: 54px;
+	letter-spacing: -0.02em;
+	margin: 80px 0;
+	display: block;
+	padding: 20px 10%;
+	text-align: center;
+}
+
+/* ADS
+***************************/
+
+.ad-narrow {
+	max-width: 480px;
+	float: right;
+	margin: 30px 0 30px 30px;
+}
+
+.ad-thin {
+	
+}
+
+.continues {
+	color: #767676;
+	font-family: "Droid Serif", Georgia, Serif;
+	font-style: italic;
+	text-align: center;
+}
