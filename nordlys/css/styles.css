@@ -1,0 +1,197 @@
+@charset "UTF-8";
+
+* {
+    -moz-box-sizing: border-box; /*For Mozilla*/
+    -webkit-box-sizing: border-box; /*For Chrome og Safari*/
+    box-sizing: border-box;
+    -ms-box-sizing: border-box; /*For IE8*/
+}
+
+.container {
+	background: #fcfcfc;
+	color: #101010;
+	font-family: "Open Sans", Helvetica, Arial, sans-serif;
+	font-size: 18px;
+	font-weight: 300;
+	line-height: 30px;
+}
+
+.logo {
+	height: 70px;
+	left: 10px;
+	position: absolute;
+	top: 10px;
+	width: 70px;
+}
+
+.title-container {
+	bottom: 100px;
+	color: #fff;
+	position: absolute;
+}
+
+.image {
+	width: 100%;
+}
+
+.head {
+	background: url(../gfx/tromso.jpg) center center fixed no-repeat;
+	background-size: cover;
+	color: #fff;
+	display: block;
+	height: 100vh;
+}
+
+.logo {
+	height: 80px;
+	width: 80px;
+}
+
+.head-text-wrapper {
+	background: rgba(0,0,0,.6);
+	bottom: 100px;
+	color: #fff;
+	left: 0;
+	margin: 0 auto;
+	padding: 20px;
+	position: absolute;
+	right: 0;
+	text-align: center;
+}
+
+.article-title {
+	font-size: 90px;
+	font-weight: 700;
+	line-height: 100px;
+	margin: 0 auto 20px auto;
+	text-align: center;
+}
+
+.body {
+	margin: 60px auto;
+}
+
+.body p {
+	margin: 0 auto 60px auto;
+	width: 720px;
+}
+
+.body h2 {
+	font-size: 26px;
+	font-weight: 700;
+	margin-bottom: 20px;
+}
+
+.deck-constrained {
+	margin: 0 auto;
+	width: 1100px;
+}
+
+.deck-loose {
+	width: 100%;
+}
+
+.deck-text {
+	margin-bottom: 80px;
+	overflow: auto;
+}
+
+.deck-media {
+	margin: 120px 0; 
+	overflow: auto;
+}
+
+.deck-dark {
+	background: #101010;
+	color: #fff;
+	padding: 60px 0;
+}
+
+.deck-dark h2 {
+	margin: 0 auto 60px auto;
+	width: 720px;
+}
+
+.deck-text :last-child {
+	margin-bottom: 0;
+}
+
+.left {
+	float: left;
+}
+
+.dark-box {
+	background: #101010;
+	color: #fff;
+	float: right;
+	margin: 40px 0 40px 40px;
+	padding: 30px;
+	width: 340px;
+}
+
+.dark-box p {
+	width: 100%;
+	margin-bottom: 0;
+}
+
+/* COLLAGE 1
+******************************************************/
+
+.c-1 {
+	color: #767676;
+}
+
+.c-1 p {
+	font-size: 14px;
+	font-style: italic;
+	line-height: 22px;
+	width: 100%;
+}
+
+.c-1-colspan-3 {
+	float: left;
+	width: 245px;
+}
+
+.c-1-colspan-6 {
+	float: left;
+	margin-left: 40px;
+	margin-right: 40px;
+	width: 530px;
+}
+
+.c-1-strong {
+	font-weight: 700;
+	text-transform: uppercase;
+}
+
+.c-1-first-image {
+	margin-bottom: 33px;
+}
+
+/* QUOTE
+******************************************************/
+
+.quote {
+	border-bottom: 2px solid #eee;
+	border-top: 2px solid #eee;
+	font-size: 40px;
+	font-weight: 700;
+	line-height: 46px;
+	padding: 40px 0;
+}
+
+.quote p {
+	color: #767676;
+	font-size: 18px;
+	font-style: italic;
+	font-weight: 300;
+	margin: 0;
+}
+
+.fnutt {
+	float: left;
+	height: 80px;
+	width: 80px;
+	margin: -20px 20px 0 0;
+}
