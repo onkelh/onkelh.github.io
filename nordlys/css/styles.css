@@ -70,14 +70,34 @@ body {
 	text-align: center;
 }
 
+.share-wrapper {
+	display: inline-block;
+	margin: 0 auto;
+}
+
+.test {
+	height: 54px;
+	overflow: auto;
+	width: 54px;
+}
+
 .share-icon {
+	display: inline-block;
 	height: 52px;
+	margin: 0 5px;
 	width: 52px;
 }
 
-.share-icon:hover {
-	transform: scale(1.05, 1.05);
-	transition: .25s;
+.facebook {
+	background-image: url("../gfx/share-facebook.svg");
+}
+
+.twitter {
+	background-image: url("../gfx/share-twitter.svg");
+}
+
+.mail {
+	background-image: url("../gfx/share-mail.svg");
 }
 
 .body {
