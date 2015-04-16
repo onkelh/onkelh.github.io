@@ -19,6 +19,23 @@
     	.fbt-link { color: #fff; font-weight: 700; display: block; text-decoration: underline; margin-bottom: 20px; }
     	.fbt-link:hover { text-decoration: none; }
     	.fbt-link:visited { color: #fff; }
+
+    	@media screen and (min-width: 1px) and (max-width: 700px) {
+    		.fbt-topImage-large {
+    			display: none;
+    		}
+    		.fbt-topImage-small {
+    			display: block;
+    		}
+    	}
+    	@media screen and (min-width: 701px) and (max-width: 2000px) {
+    		.fbt-topImage-small {
+    			display: none;
+    		}
+    		.fbt-topImage-large {
+    			display: block;
+    		}
+    	}
     </style>
 </head>
 <body class="fbt-body">
@@ -27,7 +44,9 @@
 		
 		<div class="fbt-topImageWrapper">
 			
-			<img class="fbt-topImage" src="gfx/rene-svendsen.jpg" alt="Sjefredaktør Rene Svendsen holder et skilt der det står kjære leser" />
+			<img class="fbt-topImage fbt-topImage-large" src="gfx/rene-svendsen-2.jpg" alt="Sjefredaktør Rene Svendsen holder et skilt der det står kjære leser" />
+
+			<img class="fbt-topImage fbt-topImage-small" src="gfx/rene-svendsen-small.jpg" alt="Sjefredaktør Rene Svendsen holder et skilt der det står kjære leser" />
 
 		</div>
 
