@@ -80,13 +80,6 @@ fieldset {
 
 .field {
 	position: relative;
-	border-top: 1px solid #ddd;
-	border-right: 1px solid #ddd;
-	border-left: 1px solid #ddd;
-}
-
-.field:last-child input {
-	border-bottom: 1px solid #ccc;
 }
 
 .field label {
@@ -103,11 +96,18 @@ fieldset {
 	border: 0;
 	vertical-align: bottom;
 	padding: 22px 10px 0px 8px;
+	border-top: 1px solid #ddd;
+	border-right: 1px solid #ddd;
+	border-left: 1px solid #ddd;
 	font-size: 20px;
     -webkit-appearance: none;
     border-radius: 0;
     color: #767676;
     font-family: "PT Sans", helvetica;
+}
+
+.field:last-child input {
+	border-bottom: 1px solid #ccc;
 }
 
 input:focus {
