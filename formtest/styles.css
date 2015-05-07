@@ -65,7 +65,6 @@ body {
 input {
 	height: 66px;
 	width: 100%;
-	z-index: 1;
 }
 
 label, input {
@@ -100,18 +99,16 @@ fieldset {
 	border-right: 1px solid #ddd;
 	border-left: 1px solid #ddd;
 	font-size: 20px;
-    -webkit-appearance: none;
+
     border-radius: 0;
     color: #767676;
     font-family: "PT Sans", helvetica;
 }
 
 .field:last-child input {
-	border-bottom: 1px solid #ccc;
+	border-bottom: 1px solid #ddd;
 }
 
 input:focus {
-
-  border: 2px solid rgba(81, 203, 238, 1);
-  z-index: 999;
+	border: 1px solid rgba(81, 203, 238, 1);
 }
