@@ -99,8 +99,8 @@ label, input {
 }
 
 input[type=text]:focus {
-  box-shadow: 0 0 5px rgba(81, 203, 238, 1);
-  border: 1px solid rgba(81, 203, 238, 1);
+  box-shadow: 0 0 10px rgba(81, 203, 238, 1);
+  border: 2px solid rgba(81, 203, 238, 1);
   z-index: 999;
 }
 
