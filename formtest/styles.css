@@ -100,6 +100,7 @@ fieldset {
 	border-left: 1px solid #ddd;
 	font-size: 20px;
     -webkit-appearance: none;
+    outline: 0;
     border-radius: 0;
     color: #767676;
     font-family: "PT Sans", helvetica;
@@ -109,6 +110,6 @@ fieldset {
 	border-bottom: 1px solid #ddd;
 }
 
-input:focus {
-	border: 1px solid rgba(81, 203, 238, 1);
+.field input:focus {
+	border: 2px solid rgba(81, 203, 238, 1);
 }
