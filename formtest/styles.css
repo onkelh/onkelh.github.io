@@ -99,7 +99,7 @@ fieldset {
 	border-right: 1px solid #ddd;
 	border-left: 1px solid #ddd;
 	font-size: 20px;
-
+    -webkit-appearance: none;
     border-radius: 0;
     color: #767676;
     font-family: "PT Sans", helvetica;
