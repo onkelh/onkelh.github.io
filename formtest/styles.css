@@ -99,6 +99,6 @@ label, input {
 }
 }
 
-.last-child {
+.last-child input {
 	border-bottom: 1px solid #ddd;
 }
