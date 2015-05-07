@@ -83,7 +83,6 @@ label, input {
 	font-weight: bold;
 	top: 9px;
 	left: 9px;
-	color: #767676;
 }
 
 .field input {
@@ -93,9 +92,10 @@ label, input {
 	border-top: 1px solid #ddd;
 	border-right: 1px solid #ddd;
 	border-left: 1px solid #ddd;
-	font-size: 18px;
+	font-size: 20px;
     -webkit-appearance: none;
     border-radius: 0;
+    color: #767676;
 }
 }
 
