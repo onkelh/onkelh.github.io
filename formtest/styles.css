@@ -98,6 +98,7 @@ fieldset {
 	border-right: 1px solid #ddd;
 	border-left: 1px solid #ddd;
 	font-size: 20px;
+	font-weight: bold;
     -webkit-appearance: none;
     border-radius: 0;
     color: #767676;
