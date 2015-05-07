@@ -72,6 +72,11 @@ label, input {
 	font-family: arial;
 }
 
+fieldset {
+	margin: 0 auto;
+	max-width: 500px;
+}
+
 .field {
 	position: relative;
 }
