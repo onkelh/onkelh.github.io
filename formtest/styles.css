@@ -62,6 +62,13 @@ body {
 	font-family: "PT Sans", helvetica;
 }
 
+h1 {
+	font-weight: 700;
+	font-size: 24px;
+	margin-top: 20px;
+	margin-bottom: 30px;
+}
+
 input {
 	height: 66px;
 	width: 100%;
