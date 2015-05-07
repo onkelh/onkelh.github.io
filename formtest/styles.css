@@ -112,6 +112,6 @@ fieldset {
 
 input:focus {
 
-  border: 1px solid rgba(81, 203, 238, 1);
+  border: 2px solid rgba(81, 203, 238, 1);
   z-index: 999;
 }
