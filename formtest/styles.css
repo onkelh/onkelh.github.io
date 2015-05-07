@@ -65,6 +65,7 @@ body {
 input {
 	height: 66px;
 	width: 100%;
+	z-index: 1;
 }
 
 label, input {
