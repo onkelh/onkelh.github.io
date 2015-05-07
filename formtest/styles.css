@@ -83,15 +83,16 @@ label, input {
 	font-weight: bold;
 	top: 9px;
 	left: 9px;
+	color: #767676;
 }
 
 .field input {
 	border: none;
 	vertical-align: bottom;
 	padding: 22px 10px 0px 8px;
-	border-top: 1px solid #ccc;
-	border-right: 1px solid #ccc;
-	border-left: 1px solid #ccc;
+	border-top: 1px solid #ddd;
+	border-right: 1px solid #ddd;
+	border-left: 1px solid #ddd;
 	font-size: 18px;
     -webkit-appearance: none;
     border-radius: 0;
@@ -99,5 +100,5 @@ label, input {
 }
 
 .last-child {
-	border-bottom: 1px solid #ccc;
+	border-bottom: 1px solid #ddd;
 }
