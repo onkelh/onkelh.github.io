@@ -93,6 +93,9 @@ label, input {
 	border-right: 1px solid #ccc;
 	border-left: 1px solid #ccc;
 	font-size: 18px;
+    -webkit-appearance: none;
+    border-radius: 0;
+}
 }
 
 .last-child {
