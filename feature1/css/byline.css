@@ -1,0 +1,9 @@
+.byline {
+	max-width: 680px;
+	font-weight: 700;
+	font-size: 15px;
+	padding: 36px 0;
+	margin: 0 auto 36px auto;
+	text-align: center;
+	border-bottom: 1px solid #ddd;
+}

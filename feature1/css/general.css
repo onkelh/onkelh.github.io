@@ -1,4 +1,5 @@
-@charset "UTF-8";
+/* GENERAL
+***************************************************************/
 
 * {
     -moz-box-sizing: border-box; /*For Mozilla*/
@@ -10,20 +11,11 @@
 .container {
 	color: #101010;
 	font-family: "Open Sans", Helvetica, Arial, sans-serif;
-	font-size: 17px;
+	font-size: 16px;
 	line-height: 30px;
 }
 
-
-
-/* HEADING, PARAGRAPH
-***************************************************************/
-
-.paragraph {
-	margin: 24px auto;
-	max-width: 680px;
-
+.wrapper {
+	max-width: 980px;
+	margin: 0 auto;
 }
-
-/* QUOTE ENDS
-***************************************/

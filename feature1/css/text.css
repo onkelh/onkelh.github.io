@@ -1,0 +1,32 @@
+/* TEXT
+***************************************************************/
+
+.paragraph {
+	margin: 24px auto;
+	max-width: 680px;
+
+}
+
+.title {
+	font-family: "Playfair Display", Georgia, Serif;
+	font-weight: 700;
+	font-size: 72px;
+	line-height: 72px;
+	margin-bottom: 30px;
+}
+
+.ingress {
+	font-size: 25px;
+	line-height: 36px;
+	font-weight: 300;
+	margin-bottom: 60px;
+}
+
+.sub-heading {
+	font-family: "Playfair Display", Georgia, Serif;
+	font-weight: 700;
+	font-size: 30px;
+	line-height: 36px;
+	max-width: 680px;
+	margin: 66px auto 0 auto;
+}
