@@ -1,0 +1,105 @@
+/* STYLES FOR QUOTES
+*******************************************************/
+
+/* Unchangable */
+
+.quote-1, .quote-2, .quote-3 {
+	font-family: "Playfair Display";
+	font-style: italic;
+	font-weight: 700;
+}
+
+.quote-1 {
+	color: white;
+	background-color: black;
+}
+
+.quote-3 {
+	text-align: center;
+}
+
+.cite {
+	text-transform: uppercase;
+	font-weight: 300;
+	font-family: "Open Sans";
+	font-size: 14px;
+	line-height: 18px;
+	font-style: normal;
+	padding-top: 20px;
+	margin-top: 20px;
+}
+
+.quote-1 > .cite {
+	border-top: 1px solid rgba(255,255,255,.25);
+}
+
+.quote-2 > .cite {
+	border-top: 1px solid rgba(0,0,0,.25);
+}
+
+.quote-3 > .cite {
+	border-top: 1px solid rgba(0,0,0,.25);
+}
+
+/* From 600px to ---> */
+
+@media screen and (min-width: 600px) and (max-width: 3000px) {
+	.quote-1, .quote-2, .quote-3 {
+		font-size: 30px;
+		line-height: 36px;
+	}
+
+	.quote-1, .quote-2 {
+		width: 330px;
+	}
+
+	.quote-1 {
+		margin: 20px 20px 20px 0;
+		float: left;
+		padding: 20px 20px 30px 20px;
+	}
+
+	.quote-2 {
+		margin: 20px 0 20px 20px;
+		float: right;
+	}
+
+	.quote-3 {
+		margin: 80px 0;
+	}
+
+	.quote-1 > .cite {
+		width: 100%;
+	}
+
+	.quote-2 > .cite {
+		width: 100%;
+	}
+
+	.quote-3 > .cite {
+		width: 60%;
+		margin: 20px auto 0 auto;
+	}
+}
+
+/* From 0px to 599px */
+
+@media screen and (min-width: 0px) and (max-width: 599px) {
+	.quote-1, .quote-2, .quote-3 {
+		font-size: 24px;
+		line-height: 30px;
+		text-align: center;
+		max-width: none;
+		float: none;
+	}
+
+	.quote-1 {
+		padding: 18px 6% 24px 6%;
+		margin: 48px -7%;
+	}
+
+	.quote-2, .quote-3 {
+		margin: 48px 0;
+	}
+}
+

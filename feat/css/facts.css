@@ -1,0 +1,41 @@
+/* Unchangable */
+
+.facts-1 {
+	max-width: 680px;
+	margin: 0 auto;
+	padding: 20px;
+	background: brown;
+	color: white;
+}
+
+.facts-heading {
+	text-transform: uppercase;
+	font-weight: bold;
+	margin-bottom: 12px;
+}
+
+.facts-text {
+	font-size: 14px;
+	line-height: 24px;
+}
+
+/* From 0px to 599px */
+
+@media screen and (min-width: 0px) and (max-width: 599px) {
+
+	.facts-1 {
+		padding: 18px 7% 24px 7%;
+		margin: 48px -7%;
+	}
+	
+}
+
+/* From 600px to ---> */
+
+@media screen and (min-width: 600px) and (max-width: 3000px) {
+
+	.facts-1 {
+		margin: 80px auto;
+	}
+
+}
