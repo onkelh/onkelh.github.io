@@ -1,0 +1,51 @@
+/* Unchangable */
+
+.image {
+	width: 100%;
+	vertical-align: middle;
+}
+
+.image-frame {
+	background-color: #e7e6e2;
+	font-size: 14px;
+	line-height: 18px;
+	padding: 12px;
+}
+
+.image-1 {
+	max-width: 980px;
+}
+
+.image-2 {
+	max-width: 680px;
+}
+
+/* From 0px to 599px */
+
+@media screen and (min-width: 0px) and (max-width: 599px) {
+
+	.image-1, .image-2, .image-3 {
+		margin: 48px auto;
+	}
+
+	.image-3 {
+		width: 100%;
+	}
+	
+}
+
+/* From 600px to ---> */
+
+@media screen and (min-width: 600px) and (max-width: 3000px) {
+
+	.image-1, .image-2 {
+		margin: 80px auto;
+	}
+
+	.image-3 {
+		float: left;
+		margin: 20px 20px 20px 0;
+		width: 330px;
+	}
+
+}
