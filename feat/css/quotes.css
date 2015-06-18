@@ -3,7 +3,7 @@
 
 /* Unchangable */
 
-.quote-1, .quote-2, .quote-3 {
+.quote-1, .quote-2, .quote-3, .quote-4 {
 	font-family: "Playfair Display";
 	font-style: italic;
 	font-weight: 700;
@@ -14,8 +14,13 @@
 	background-color: green;
 }
 
-.quote-3 {
+.quote-3, .quote-4 {
 	text-align: center;
+}
+
+.quote-4 {
+	background-color: black;
+	color: white;
 }
 
 .cite {
@@ -41,10 +46,14 @@
 	border-top: 1px solid rgba(0,0,0,.25);
 }
 
+.quote-4 > .cite {
+	border-top: 1px solid rgba(255,255,255,.25);
+}
+
 /* From 600px to ---> */
 
 @media screen and (min-width: 600px) and (max-width: 3000px) {
-	.quote-1, .quote-2, .quote-3 {
+	.quote-1, .quote-2, .quote-3, .quote-4 {
 		font-size: 30px;
 		line-height: 36px;
 	}
@@ -64,7 +73,7 @@
 		float: right;
 	}
 
-	.quote-3 {
+	.quote-3, .quote-4 {
 		margin: 80px 0;
 	}
 
@@ -77,9 +86,13 @@
 	}
 
 	.quote-3 > .cite {
-		width: 60%;
+		width: 480px;
 		margin: 20px auto 0 auto;
 	}
+
+	.quote-4 > .cite {
+		width: 480px;
+		margin: 20px auto 0 auto;
 }
 
 /* From 0px to 599px */
