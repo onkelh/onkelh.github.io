@@ -14,7 +14,7 @@ body {
 }
 
 .container {
-	margin: 100px 6%;
+	margin: 80px 6%;
 }
 
 @media screen and (max-width: 500px){
@@ -32,4 +32,8 @@ body {
 .inner > p {
 	max-width: 680px;
 	margin: 0 auto 24px auto;
+}
+
+.fullwidth {
+	background-color: black;
 }
