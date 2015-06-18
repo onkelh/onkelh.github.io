@@ -1,6 +1,6 @@
 /* Unchangable */
 
-.facts-1 {
+.facts-1, .facts-2 {
 	max-width: 680px;
 	margin: 0 auto;
 	padding: 20px;
@@ -23,8 +23,8 @@
 
 @media screen and (min-width: 0px) and (max-width: 599px) {
 
-	.facts-1 {
-		padding: 18px 7% 24px 7%;
+	.facts-1, .facts-2 {
+		padding: 30px 7% 36px 7%;
 		margin: 48px -7%;
 	}
 	
@@ -36,6 +36,13 @@
 
 	.facts-1 {
 		margin: 80px auto;
+	}
+
+	.facts-2 {
+		padding: 20px 20px 30px 20px;
+		margin: 20px 0 20px 20px;
+		float: right;
+		width: 330px;
 	}
 
 }
