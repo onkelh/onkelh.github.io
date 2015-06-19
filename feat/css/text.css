@@ -45,7 +45,7 @@ li {
 @media screen and (min-width: 700px) and (max-width: 3000px) {
 
 	.subheading {
-		font-size: 32px;
+		font-size: 30px;
 		line-height: 36px;
 		margin-top: 54px;
 	}
