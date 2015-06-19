@@ -50,9 +50,33 @@
 	border-top: 1px solid rgba(255,255,255,.25);
 }
 
+/* From 0px to 599px */
+
+@media screen and (min-width: 0px) and (max-width: 599px) {
+	
+	.quote-1, .quote-2, .quote-3, .quote-4 {
+		font-size: 24px;
+		line-height: 30px;
+		text-align: center;
+		max-width: none;
+		float: none;
+	}
+
+	.quote-1, .quote-4 {
+		padding: 18px 6% 24px 6%;
+		margin: 48px -4%;
+	}
+
+	.quote-2, .quote-3 {
+		margin: 48px 0;
+	}
+
+}
+
 /* From 600px to ---> */
 
 @media screen and (min-width: 600px) and (max-width: 3000px) {
+	
 	.quote-1, .quote-2, .quote-3, .quote-4 {
 		font-size: 30px;
 		line-height: 36px;
@@ -77,6 +101,10 @@
 		margin: 80px 0;
 	}
 
+	.quote-4 {
+		padding: 48px 6%;
+	}
+
 	.quote-1 > .cite {
 		width: 100%;
 	}
@@ -93,26 +121,6 @@
 	.quote-4 > .cite {
 		width: 480px;
 		margin: 20px auto 0 auto;
-}
 
-/* From 0px to 599px */
-
-@media screen and (min-width: 0px) and (max-width: 599px) {
-	.quote-1, .quote-2, .quote-3 {
-		font-size: 24px;
-		line-height: 30px;
-		text-align: center;
-		max-width: none;
-		float: none;
-	}
-
-	.quote-1 {
-		padding: 18px 6% 24px 6%;
-		margin: 48px -7%;
-	}
-
-	.quote-2, .quote-3 {
-		margin: 48px 0;
-	}
 }
 

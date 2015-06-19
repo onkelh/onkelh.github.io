@@ -1,16 +1,8 @@
-
-
 * {
     -moz-box-sizing: border-box; /*For Mozilla*/
     -webkit-box-sizing: border-box; /*For Chrome og Safari*/
     box-sizing: border-box;
     -ms-box-sizing: border-box; /*For IE8*/
-}
-
-body {
-	font-family: "Open Sans";
-	font-size: 16px;
-	line-height: 24px;
 }
 
 .container {
@@ -29,7 +21,7 @@ body {
 	margin: 0 auto;
 }
 
-.inner > p {
+.inner > p, ul, h1 {
 	max-width: 680px;
 	margin: 0 auto 24px auto;
 }
