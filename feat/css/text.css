@@ -7,7 +7,7 @@ body {
 }
 
 
-@media (min-resolution: 100ppi) { 
+@media (min-resolution: 100ppi) and (min-device-pixel-ratio: 2) { 
 	    body {
 	    	font-size: 25px;
 	    	line-height: 36px
