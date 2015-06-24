@@ -7,13 +7,11 @@ body {
 }
 
 
-@media 
-	(-webkit-min-device-pixel-ratio: 2), 
-	(min-resolution: 300ppi) { 
-	    body {
-	    	font-size: 25px;
-	    	line-height: 36px;
-	    }
+@media (min-resolution: 300ppi) { 
+    body {
+    	font-size: 25px;
+    	line-height: 36px;
+    }
 }
 
 li {
