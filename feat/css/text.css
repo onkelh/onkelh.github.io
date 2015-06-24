@@ -7,11 +7,11 @@ body {
 }
 
 
-@media (min-resolution: 300ppi) { 
-    body {
-    	font-size: 25px;
-    	line-height: 36px;
-    }
+@media (min-resolution: 100ppi) { 
+	    body {
+	    	font-size: 25px;
+	    	line-height: 36px
+	    }
 }
 
 li {
