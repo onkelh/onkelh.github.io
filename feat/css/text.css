@@ -12,6 +12,7 @@ body {
 	(min-resolution: 300ppi) { 
 	    body {
 	    	font-size: 25px;
+	    	line-height: 36px;
 	    }
 }
 
