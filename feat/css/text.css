@@ -6,14 +6,6 @@ body {
 	line-height: 24px;
 }
 
-
-@media (min-resolution: 100ppi) and (min-device-pixel-ratio: 2) { 
-	    body {
-	    	font-size: 25px;
-	    	line-height: 36px
-	    }
-}
-
 li {
 	list-style-type: disc;
 	margin-left: 36px;
