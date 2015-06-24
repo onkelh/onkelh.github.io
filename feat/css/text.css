@@ -6,6 +6,15 @@ body {
 	line-height: 24px;
 }
 
+
+@media 
+	(-webkit-min-device-pixel-ratio: 2), 
+	(min-resolution: 300ppi) { 
+	    body {
+	    	font-size: 25px;
+	    }
+}
+
 li {
 	list-style-type: disc;
 	margin-left: 36px;
