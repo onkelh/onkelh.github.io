@@ -51,3 +51,14 @@ li {
 	}
 
 }
+
+@media only screen and (max-device-width:800px), 
+only screen and (-webkit-min-device-pixel-ratio: 2) {
+
+	body {
+		font-size: 20px;
+		line-height: 28px;
+		background: red;
+	}
+
+}
