@@ -52,7 +52,7 @@ li {
 
 }
 
-@media only screen and (min-device-width:600px) and (min-resolution: 300dpi) and (-webkit-min-device-pixel-ratio: 2) {
+@media only screen and (min-device-width:600px) and (min-resolution: 300ppi) and (-webkit-min-device-pixel-ratio: 2) {
 
 	body {
 		font-size: 21px;
