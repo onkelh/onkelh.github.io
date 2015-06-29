@@ -6,22 +6,13 @@ body {
 	line-height: 24px;
 }
 
-@media
-only screen and (-webkit-min-device-pixel-ratio: 2),
-only screen and (min-resolution: 300dpi) {
-    
-	body {
-		font-size: 21px;
-		line-height: 30px;
-		background-color: yellow;
-	}
-
-}
-
-@media screen and (min-width: 500px) and (max-width: 900px;) {
+@media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1024px)
+and (-webkit-min-device-pixel-ratio: 1)  {
 
 	body {
-		font-size: 21px;
+		font-size: 20px;
 		line-height: 30px;
 		background-color: yellow;
 	}
