@@ -6,7 +6,7 @@ body {
 	line-height: 24px;
 }
 
-@media print and (min-resolution: 350dpi) {
+@media print and (min-resolution: 323dpi) {
 
 	body {
 		font-size: 20px;
