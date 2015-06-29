@@ -58,6 +58,7 @@ only screen and (-webkit-min-device-pixel-ratio: 2) {
 	body {
 		font-size: 21px;
 		line-height: 30px;
+		background-color: yellow;
 	}
 
 }
