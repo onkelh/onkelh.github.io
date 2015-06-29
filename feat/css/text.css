@@ -6,6 +6,18 @@ body {
 	line-height: 24px;
 }
 
+@media
+only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and (min-resolution: 192dpi) {
+    
+	body {
+		font-size: 21px;
+		line-height: 30px;
+		background-color: yellow;
+	}
+
+}
+
 li {
 	list-style-type: disc;
 	margin-left: 36px;
@@ -48,16 +60,6 @@ li {
 		font-size: 30px;
 		line-height: 36px;
 		margin-top: 54px;
-	}
-
-}
-
-@media only screen and (-webkit-min-device-pixel-ratio: 2) and (min-resolution: 300dpi) {
-
-	body {
-		font-size: 21px;
-		line-height: 30px;
-		background-color: yellow;
 	}
 
 }
