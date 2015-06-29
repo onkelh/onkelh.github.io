@@ -6,11 +6,11 @@ body {
 	line-height: 24px;
 }
 
-@media only screen 
+@media screen
 and (-webkit-min-device-width: 768px)
 and (-webkit-max-device-width: 1024px)
 and (-webkit-min-device-pixel-ratio: 2)
-and (-webkit-min-resolution: 200dpi) {
+and (-webkit-max-resolution: 250dpi) {
 
 	body {
 		font-size: 20px;
