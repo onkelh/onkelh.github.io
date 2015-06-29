@@ -16,14 +16,14 @@ body {
 
 }
 
-@media print and (max-resolution: 300dpi) {
+@media print and (min-resolution: 300dpi) {
 
 	body {
 		font-size: 20px;
 		line-height: 30px;
 		background-color: yellow;
 	}
-	
+
 }
 
 li {
