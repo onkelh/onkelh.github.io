@@ -6,7 +6,7 @@ body {
 	line-height: 24px;
 }
 
-@media screen and (min-device-width: 768px) and (max-device-width: 1024px) and (-webkit-min-device-pixel-ratio: 2) and (max-resolution: 300dpi) {
+@media screen and (min-device-width: 768px) and (max-device-width: 1024px) and (-webkit-min-device-pixel-ratio: 2) {
 
 	body {
 		font-size: 20px;
@@ -14,6 +14,16 @@ body {
 		background-color: yellow;
 	}
 
+}
+
+@media print and (max-resolution: 300dpi) {
+
+	body {
+		font-size: 20px;
+		line-height: 30px;
+		background-color: yellow;
+	}
+	
 }
 
 li {
