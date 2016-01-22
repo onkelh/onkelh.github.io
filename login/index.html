@@ -24,19 +24,22 @@
             
             <label for="phone-number">Skriv ditt mobilnummer her:</label>
             <p id="error" class="error">Ugyldig nummer da gitt! 11112222 = aID finnes, mens 33334444 = aID finnes ikke</p>
-            <input id="phone" type="text" />
+            <input id="myInput" type="text" autofocus />
 
             <button id="phoneButton" type="submit">Fortsett...</button>
 
         </div>
 
         <div class="footer">
-
+            <div class="logo-wrapper">
+                <img class="aid-logo" src="gfx/logo-aid.svg" />
+            </div>
         </div>
 
     </div>
 
     <script src="js/validate-phone.js"></script>
+    <script src="js/enter-submit.js"></script>
 
 </body>
 </html>
