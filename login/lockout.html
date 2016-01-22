@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="no">
+
+<head>
+	<meta charset="utf-8">
+    <title>Login-test: Phone first</title>
+    <link rel="stylesheet" type="text/css" href="css/styles.css" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+</head>
+<body>
+
+    <header></header>
+
+    <div class="box">	
+    
+        <div class="header">
+
+            <h1>Logg på Drammens Tidende</h1>
+
+        </div>
+
+        <div class="body">
+
+            <p id="message" class="message">Du har skrevet feil passord 3 ganger og kan ikke prøve mer. Men det ordner seg! Vi har sendt en SMS med en engangskode til ditt mobilnummer:</p>
+            
+            <label for="token">Skriv engangskoden her:</label>
+            <input id="token" class="token" type="tel" />
+
+            <button id="tokenButton" type="submit">Fortsett...</button>
+
+        </div>
+
+        <div class="footer">
+
+        </div>
+
+    </div>
+
+    <script src="js/validate-password.js"></script>
+
+</body>
+</html>
