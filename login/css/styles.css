@@ -145,11 +145,14 @@ button {
     display: none;
 }
 
-.message {
+.info {
 	background-color: #d9edf7;
 	border: 1px solid #31708F;
     color: #31708F;
 	padding: 12px;
+}
+
+.message {
     margin-bottom: 24px;
 }
 
