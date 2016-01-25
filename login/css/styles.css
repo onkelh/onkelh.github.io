@@ -135,6 +135,9 @@ button {
     color: #d0021b;
     padding: 12px;
     margin-bottom: 6px;
+}
+
+.vis-hidden {
     display: none;
 }
 

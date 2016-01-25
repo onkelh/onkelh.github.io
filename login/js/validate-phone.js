@@ -6,7 +6,7 @@ function redirect(){
 		if(myInput.value === "33334444") {
 			window.location.href = "new-user.html";
 		}
-		else document.getElementById("error").style.display = "block";
+		else document.getElementById("vis-hidden").style.display = "block";
 }
 
 document.getElementById("phoneButton").onclick = function() {
