@@ -1,6 +1,6 @@
 function redirect(){
 	var password = document.getElementById("myInput");
-		if(myInput.value === "abc123") {
+		if(myInput.value === "ABC123") {
 			window.location.href = "create-password.html";
 		}
 		else document.getElementById("vis-hidden").style.display = "block";
