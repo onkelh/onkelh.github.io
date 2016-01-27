@@ -24,11 +24,54 @@
 
             <div class="body">
                 
-                <label for="name">Fornavn og etternavn:</label>
-                <input id="name" type="text" />
+                <div class="entered-phone-number">
+                    <p>998 87 766</p>
+                </div>
 
-                <label for="name">E-post:</label>
-                <input id="name" type="text" />
+                <div class="create-user-input">
+                    <label for="name">Fornavn og etternavn:</label>
+                    <input id="name" type="text" />
+                </div>
+
+                <div class="create-user-input">
+                    <label for="name">E-post:</label>
+                    <input id="name" type="email" />
+                </div>
+
+                <fieldset class="fieldset">
+                    <p>Fødselsdato:</p>
+                    <div class="dropdown-container">
+                        <label for="birthYear">Dag</label>
+                        <div class="dropdown">
+                            <select name="birthDay" id="birthDay">
+                                <option selected="selected" value="Velg...">Velg...</option>
+                            </select>
+                        </div>
+                    </div>
+                    <div class="dropdown-container">
+                        <label for="birthYear">Måned</label>
+                        <div class="dropdown">
+                            <select name="birthMonth" id="birthMonth">
+                                <option selected="selected" value="Velg...">Velg...</option>
+                            </select>
+                        </div>
+                    </div>
+                    <div class="dropdown-container">
+                        <label for="birthYear">År</label>
+                        <div class="dropdown">
+                            <select name="birthYear" id="birthYear">
+                                <option selected="selected" value="Velg...">Velg...</option>
+                            </select>
+                        </div>
+                    </div>
+
+                </fieldset>
+
+                <div class="checkbox-wrapper">
+                    <p><span class="check"></span>Jeg aksepterer brukervilkårene</p>
+                </div>
+
+                <input id="createUser" type="submit" value="Fortsett..." />
 
             </div>
 

@@ -4,7 +4,7 @@ function redirect(){
 		if(phone.value.length === phoneFormat) {
 			window.location.href = "enter-password.html";
 		}
-		if(phone.value === "11223344") {
+		if(phone.value === "99887766") {
 			window.location.href = "new-user.html";
 		}
 		else {

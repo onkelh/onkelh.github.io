@@ -70,16 +70,16 @@ header {
 label {
 	display: block;
 	margin-bottom: 6px;
+	font-weight: 700;
 }
 
 input[type="text"],
 input[type="password"],
 input[type="tel"]  {
 	font-family: "Open Sans", Helvetica, Arial, sans-serif;
-	font-weight: 700;
 	width: 100%;
 	height: 54px;
-	font-size: 24px;
+	font-size: 18px;
 	border: 1px solid #ccc;
 	-webkit-appearance: none;
 	border-radius: 3px;
@@ -99,6 +99,17 @@ input[type="submit"] {
 	border-radius: 3px;
 }
 
+input[type="text"].input-text-big,
+input[type="password"].input-text-big,
+input[type="tel"].input-text-big {
+	font-size: 24px;
+	font-weight: 700;
+}
+
+input[type="password"] {
+	letter-spacing: 2px;
+}
+
 .container {
     max-width: 360px;
     margin: 0 auto;
@@ -115,7 +126,7 @@ input[type="submit"] {
 }
 
 .header h1 {
-	font-size: 18px;
+	font-size: 20px;
 	line-height: 24px;
 	font-weight: 700;
 }
@@ -177,4 +188,64 @@ input[type="submit"] {
 
 .footer-link {
 	color: inherit;
+}
+
+.entered-phone-number {
+	background-color: #dff0d8;
+	font-size: 24px;
+	color: #3c763d;
+	font-weight: 700;
+	padding: 18px 12px;
+	text-align: center;
+	margin-bottom: 24px;
+}
+
+.fieldset {
+	background-color: #eee;
+	padding: 12px;
+}
+
+.dropdown-container {
+	float: left;
+}
+
+.dropdown {
+    width: 76px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-right: 5px;
+    position: relative;
+}
+
+select {
+	-webkit-appearance: none;
+    -moz-appearance: none;
+    border: none;
+    background-color: transparent;
+    padding: 6px 0 6px 6px;
+    font-family: inherit;
+    width: 74px;
+    line-height: 24px;
+    font-size: 17px;
+    outline: 0;
+    border-radius: 3px;
+}
+
+.create-user-input {
+	margin-bottom: 24px;
+}
+
+.checkbox-wrapper {
+	margin: 24px 0 12px 0;
+}
+
+.check {
+	display: inline-block;
+    height: 24px;
+    width: 24px;
+    margin: -6px 6px 0 0;
+    border: 1px solid #ccc;
+    vertical-align: middle;
+    border-radius: 3px;
 }
