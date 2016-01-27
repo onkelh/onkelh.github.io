@@ -6,6 +6,6 @@ function redirect(){
 		else window.location.href = "lockout.html";
 }
 
-document.getElementById("passwordButton").onclick = function() {
+document.getElementById("submitPassword").onclick = function() {
 	redirect();
 }

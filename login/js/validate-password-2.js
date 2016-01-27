@@ -6,6 +6,6 @@ function redirect(){
 		else window.location.href = "pw-attempt-2.html";
 }
 
-document.getElementById("passwordButton").onclick = function() {
+document.getElementById("submitPassword").onclick = function() {
 	redirect();
 }
