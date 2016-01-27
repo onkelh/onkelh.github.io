@@ -137,7 +137,6 @@ button {
 	background-color: #f5dbde;
     border: 1px solid #d0021b;
     color: #d0021b;
-    padding: 12px;
     margin-bottom: 6px;
 }
 
@@ -149,11 +148,17 @@ button {
 	background-color: #d9edf7;
 	border: 1px solid #31708F;
     color: #31708F;
-	padding: 12px;
+}
+
+.success {
+	background-color: #dff0d8;
+	border: 1px solid #3c763d;
+	color: #3c763d;
 }
 
 .message {
     margin-bottom: 24px;
+    padding: 12px;
 }
 
 .logo-wrapper {

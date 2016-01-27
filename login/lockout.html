@@ -24,12 +24,14 @@
 
             <div class="body">
 
-                <p id="message" class="message info">Du har skrevet feil passord 3 ganger og kan ikke prøve mer. Men det ordner seg! Vi har sendt en SMS med seks tall til ditt mobilnummer:</p>
-                
-                <label for="token">Skriv de seks tallene her:</label>
-                <input id="token" class="token" type="tel" autofocus />
+                <p id="message" class="message info">Du har skrevet feil passord 3 ganger og kan ikke prøve mer. Men det ordner seg! Vi har sendt en SMS med tre bokstaver og tre tall til ditt mobilnummer:</p>
 
-                <button id="tokenButton" type="submit">Fortsett...</button>
+                <p id="vis-hidden" class="message error vis-hidden">Det du skrev stemmer ikke med det som sto i meldingen. Prøv igjen...</p>
+                
+                <label for="token">Skriv bokstavene og tallene her:</label>
+                <input id="myInput" class="token" type="text" autofocus />
+
+                <button id="submitToken" type="submit">Fortsett...</button>
 
             </div>
 
@@ -43,7 +45,8 @@
 
     <div class="container">
 
-    <script src="js/validate-password.js"></script>
+    <script src="js/validate-token.js"></script>
+    <script src="js/enter-submit.js"></script>
 
 </body>
 </html>
