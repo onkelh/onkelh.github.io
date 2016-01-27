@@ -87,7 +87,7 @@ input[type="tel"]  {
 	padding: 12px;
 }
 
-input[type="submit"] {
+button {
 	width: 100%;
 	height: 54px;
 	background-color: #ec008d;
