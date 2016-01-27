@@ -60,11 +60,16 @@ body {
 	font-family: "Open Sans", Helvetica, Arial, sans-serif;
 	font-size: 15px;
 	line-height: 20px;
-	padding: 6px;
 }
 
 header {
-	margin-bottom: 100px;
+	margin-bottom: 40px;
+	background-color: #B61921;
+	padding: 12px 6px;
+}
+
+header img {
+	height: 30px;
 }
 
 label {
@@ -114,6 +119,7 @@ input[type="password"] {
 .container {
     max-width: 360px;
     margin: 0 auto;
+    padding: 6px;
 }
 
 .box {
@@ -181,9 +187,8 @@ input[type="password"] {
 	height: 100%;
 }
 
-.no-phone {
-	font-size: 13px;
-	text-align: center;
+.helper {
+	font-size: 14px;
 	margin-top: 24px;
 }
 
