@@ -75,6 +75,7 @@ label {
 
 input[type="text"],
 input[type="password"],
+input[type="email"],
 input[type="tel"]  {
 	font-family: "Open Sans", Helvetica, Arial, sans-serif;
 	width: 100%;
