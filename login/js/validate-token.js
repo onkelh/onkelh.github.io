@@ -1,9 +1,8 @@
 function redirect(){
 	var password = document.getElementById("myInput");
-	var possibleTokens = ["HEST 89", "hest 89", "hest89"];
-	possibleTokens.indexOf(myInput.value) > -1);
+	var possibleTokens = ["HEST 89", "HEST89" "hest 89", "hest89"];
 
-		if(myInput.value === "hest 89") {
+		if(possibleTokens.indexOf(myInput.value) > -1)) {
 			window.location.href = "create-password.html";
 		}
 		else document.getElementById("vis-hidden").style.display = "block";
