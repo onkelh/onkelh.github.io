@@ -1,0 +1,6 @@
+* {
+    -moz-box-sizing: border-box; /*For Mozilla*/
+    -webkit-box-sizing: border-box; /*For Chrome og Safari*/
+    box-sizing: border-box;
+    -ms-box-sizing: border-box; /*For IE8*/
+}

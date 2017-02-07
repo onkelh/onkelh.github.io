@@ -1,0 +1,47 @@
+@media screen and (min-width: 0px) {
+
+	.sg-form-example {
+		margin-bottom: 30px;
+	}
+
+	.sg-form-label {
+		font-size: 16px;
+		line-height: 26px;
+		display: block;
+		font-weight: 700;
+	}
+
+	.sg-form-input-longString {
+		width: 100%;
+		max-width: 500px;
+		height: 40px;
+		font-size: 16px;
+		line-height: 26px;
+		border-radius: 3px;
+		border: 1px solid #aaa;
+		padding: 10px;
+	}
+
+	.sg-form-input-phone {
+		width: 200px;
+		max-width: 500px;
+		height: 40px;
+		font-size: 16px;
+		line-height: 26px;
+		border-radius: 3px;
+		border: 1px solid #aaa;
+		padding: 10px;
+	}
+
+	.sg-form-input-longText {
+		width: 100%;
+		max-width: 500px;
+		min-height: 100px;
+		font-size: 16px;
+		line-height: 26px;
+		border-radius: 3px;
+		border: 1px solid #aaa;
+		padding: 10px;
+	}
+
+}
