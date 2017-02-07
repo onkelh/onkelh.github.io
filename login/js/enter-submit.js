@@ -1,1 +1,0 @@
-document.getElementById("myInput").onkeydown = function(e) {if(e.keyCode === 13) redirect()	;};

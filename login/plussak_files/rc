@@ -1,5 +1,0 @@
-(function() { 
-var axd = document.createElement('script'); axd.type = 'text/javascript'; axd.async = true;
-    axd.src = ('https:' === document.location.protocol ? 'https://' : 'http://') + 'dmp.theadex.com/d/447/1391/s/adex.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(axd, s);
-})();var adtech_call = new Image();adtech_call.src = 'http://adserver.adtech.de/bind?ckey1=nuggpbt;cvalue1=994215599944999999999949999999949929922;expiresDays=90;adct=image/gif;misc='+Math.random()*100000000000000000;
