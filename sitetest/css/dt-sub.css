@@ -6,6 +6,13 @@
     margin-bottom: 0px;
     border-radius: 3px;
   }
+  .text-field.field-phone.type-tel {
+    height: 44px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-left: 6px;
+    font-size: 18px;
+  }
   .body {
     padding-bottom: 40px;
     font-family: 'Open Sans', sans-serif;
@@ -14,11 +21,17 @@
     margin-bottom: 0px;
   }
   .text-field-2.input {
+    height: 44px;
+    padding-left: 6px;
     border-radius: 3px;
+    font-size: 18px;
   }
   .text-field-3 {
+    height: 44px;
     margin-bottom: 0px;
+    padding-left: 6px;
     border-radius: 3px;
+    font-size: 18px;
   }
   .div-block {
     margin-bottom: 30px;
@@ -112,21 +125,26 @@
   .text-field-4 {
     border-radius: 3px;
   }
+  .text-field-4.type-tel {
+    height: 44px;
+    padding-left: 6px;
+    font-size: 18px;
+  }
   .field-label-4 {
     font-size: 15px;
   }
   .div-block-6 {
-    width: 20%;
+    width: 17%;
     margin-right: 10px;
     float: left;
   }
   .div-block-7 {
-    width: 50%;
+    width: 48%;
     margin-right: 10px;
     float: left;
   }
   .div-block-8 {
-    width: 20%;
+    width: 23%;
     float: left;
   }
   .div-block-9 {
@@ -340,16 +358,16 @@
     padding-top: 12px;
     padding-bottom: 12px;
     border-radius: 3px;
-    font-size: 14px;
+    font-size: 16px;
   }
   .text-field-6 {
-    width: 41%;
+    width: 46%;
     height: 46px;
     margin-right: 12px;
     margin-bottom: 10px;
     float: left;
     border-radius: 3px;
-    font-size: 14px;
+    font-size: 15px;
   }
   .div-block-17 {
     position: static;
@@ -642,6 +660,9 @@
   }
   .image-19 {
     width: 100%;
+  }
+  .select-field-2 {
+    height: 44px;
   }
 }
 
