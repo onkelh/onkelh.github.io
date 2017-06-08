@@ -65,3 +65,11 @@ body {
 .item {
 	padding: 100px 20px;
 }
+
+.item-bright {
+	background: #eee;
+}
+
+.item-dark {
+	background: #999;
+}
