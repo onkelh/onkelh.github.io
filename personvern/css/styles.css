@@ -63,7 +63,7 @@ body {
 }
 
 .item {
-	padding: 100px 20px;
+	padding: 60px 20px;
 }
 
 .item-bright {
@@ -80,4 +80,10 @@ p {
 
 p:last-child {
 	margin-bottom: 0;
+}
+
+.story {
+	max-width: 200px;
+	margin-bottom: 20px;
+	box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
 }
