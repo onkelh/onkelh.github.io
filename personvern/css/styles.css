@@ -60,5 +60,8 @@ body {
 	font-family: "Open Sans", Helvetica, Arial, sans-serif;
 	font-size: 15px;
 	line-height: 20px;
-	padding: 20px;
+}
+
+.item {
+	padding: 100px 20px;
 }
