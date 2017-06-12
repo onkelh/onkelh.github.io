@@ -56,7 +56,6 @@ table {
 
 body {
 	color: #222;
-	background-color: #eee;
 	font-family: "Open Sans", Helvetica, Arial, sans-serif;
 	font-size: 20px;
 	line-height: 28px;
@@ -68,11 +67,10 @@ body {
 }
 
 .item-bright {
-	background: #eee;
+
 }
 
 .item-dark {
-	background: #e1e1e1;
 }
 
 .intro {
