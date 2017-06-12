@@ -64,6 +64,7 @@ body {
 
 .item {
 	padding: 60px 20px;
+	overflow: hidden;
 }
 
 .item-bright {
