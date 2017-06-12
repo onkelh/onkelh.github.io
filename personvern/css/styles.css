@@ -71,7 +71,7 @@ body {
 }
 
 .item-dark {
-	background: #ccc;
+	background: #e1e1e1;
 }
 
 .intro {
@@ -89,9 +89,8 @@ p:last-child {
 }
 
 .story {
-	max-width: 200px;
-	margin-bottom: 20px;
-	box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+	width: 140%;
+	margin: 0 auto 20px -20%;
 }
 
 strong {
