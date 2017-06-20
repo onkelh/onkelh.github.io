@@ -1,0 +1,31 @@
+.eyes {
+    -webkit-animation: blink-animation 5s steps(15, start) infinite;
+		animation: blink-animation 5s steps(15, start) infinite;
+}
+
+@keyframes blink-animation {
+
+		0% {
+    		visibility: visible;
+	}
+
+		40% {
+		    visibility: hidden;
+		}
+
+		44% {
+		    visibility: visible;
+		}
+
+		60% {
+		    visibility: hidden;
+		}
+
+		64% {
+		    visibility: visible;
+		}
+
+		100% {
+		    visibility: visible;
+		}
+}
